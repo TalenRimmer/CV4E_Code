@@ -1,3 +1,6 @@
 data/
+data_split/
 images/
 .DS_Store
+*.csv
+SSH-commands.yml
