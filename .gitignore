@@ -4,3 +4,4 @@ images/
 .DS_Store
 *.csv
 SSH-commands.yml
+eccv_18_all_images_sm/
