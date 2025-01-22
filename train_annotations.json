@@ -1,0 +1,5014 @@
+{
+    "info": {
+        "description": "ff_test_data",
+        "year": 2025,
+        "contributor": "Talen",
+        "date_created": "2025-01-21"
+    },
+    "images": [
+        {
+            "id": 23703,
+            "file_name": "KelpCam08_20221002T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3270_raw.png"
+        },
+        {
+            "id": 16299,
+            "file_name": "KelpCam06_20220907T140153_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0010_raw.png"
+        },
+        {
+            "id": 34587,
+            "file_name": "KelpCam18_20220722T190155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2400_raw.png"
+        },
+        {
+            "id": 12282,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2010_raw.png"
+        },
+        {
+            "id": 17456,
+            "file_name": "KelpCam13_20220406T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2640_raw.png"
+        },
+        {
+            "id": 12254,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2000_raw.png"
+        },
+        {
+            "id": 13048,
+            "file_name": "KelpCam17_20220522T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0680_raw.png"
+        },
+        {
+            "id": 324,
+            "file_name": "KelpCam21_20220920T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2540_raw.png"
+        },
+        {
+            "id": 28234,
+            "file_name": "KelpCam18_20220720T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3320_raw.png"
+        },
+        {
+            "id": 11467,
+            "file_name": "KelpCam01_20220706T150155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0330_raw.png"
+        },
+        {
+            "id": 467,
+            "file_name": "KelpCam12_20220707T180156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0820_raw.png"
+        },
+        {
+            "id": 33200,
+            "file_name": "KelpCam01_20220627T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3680_raw.png"
+        },
+        {
+            "id": 14050,
+            "file_name": "KelpCam01_20220804T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2972_raw.png"
+        },
+        {
+            "id": 29280,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2310_raw.png"
+        },
+        {
+            "id": 1169,
+            "file_name": "KelpCam21_20220820T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2450_raw.png"
+        },
+        {
+            "id": 15777,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1521_raw.png"
+        },
+        {
+            "id": 16737,
+            "file_name": "KelpCam21_20220826T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0660_raw.png"
+        },
+        {
+            "id": 375,
+            "file_name": "KelpCam03_20220709T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0820_raw.png"
+        },
+        {
+            "id": 32412,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0260_raw.png"
+        },
+        {
+            "id": 12529,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2809_raw.png"
+        },
+        {
+            "id": 36499,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1030_raw.png"
+        },
+        {
+            "id": 14332,
+            "file_name": "KelpCam04_20220727T210156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2832_raw.png"
+        },
+        {
+            "id": 38247,
+            "file_name": "KelpCam17_20221101T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1180_raw.png"
+        },
+        {
+            "id": 28930,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0730_raw.png"
+        },
+        {
+            "id": 35535,
+            "file_name": "KelpCam01_20220711T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0330_raw.png"
+        },
+        {
+            "id": 22201,
+            "file_name": "KelpCam01_20220326T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2076_raw.png"
+        },
+        {
+            "id": 12057,
+            "file_name": "KelpCam17_20221009T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0550_raw.png"
+        },
+        {
+            "id": 11094,
+            "file_name": "KelpCam03_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0090_raw.png"
+        },
+        {
+            "id": 20838,
+            "file_name": "KelpCam01_20220806T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3633_raw.png"
+        },
+        {
+            "id": 31747,
+            "file_name": "KelpCam08_20220722T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0300_raw.png"
+        },
+        {
+            "id": 17573,
+            "file_name": "KelpCam06_20220915T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2960_raw.png"
+        },
+        {
+            "id": 27973,
+            "file_name": "KelpCam08_20221005T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0990_raw.png"
+        },
+        {
+            "id": 22587,
+            "file_name": "KelpCam21_20220918T090157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3020_raw.png"
+        },
+        {
+            "id": 12168,
+            "file_name": "KelpCam12_20220331T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0010_raw.png"
+        },
+        {
+            "id": 26662,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1300_raw.png"
+        },
+        {
+            "id": 1180,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2550_raw.png"
+        },
+        {
+            "id": 24640,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0940_raw.png"
+        },
+        {
+            "id": 26052,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3470_raw.png"
+        },
+        {
+            "id": 18552,
+            "file_name": "KelpCam17_20220410T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0320_raw.png"
+        },
+        {
+            "id": 37160,
+            "file_name": "KelpCam06_20220915T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1950_raw.png"
+        },
+        {
+            "id": 17545,
+            "file_name": "KelpCam17_20221017T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2160_raw.png"
+        },
+        {
+            "id": 15412,
+            "file_name": "KelpCam04_20220724T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2570_raw.png"
+        },
+        {
+            "id": 37578,
+            "file_name": "KelpCam01_20220807T090157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1960_raw.png"
+        },
+        {
+            "id": 35394,
+            "file_name": "KelpCam01_20220707T190155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3610_raw.png"
+        },
+        {
+            "id": 27076,
+            "file_name": "KelpCam01_20220702T200154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0460_raw.png"
+        },
+        {
+            "id": 27450,
+            "file_name": "KelpCam21_20221101T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1450_raw.png"
+        },
+        {
+            "id": 16405,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2170_raw.png"
+        },
+        {
+            "id": 15531,
+            "file_name": "KelpCam18_20220624T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1570_raw.png"
+        },
+        {
+            "id": 14099,
+            "file_name": "KelpCam19_20221103T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0410_raw.png"
+        },
+        {
+            "id": 22807,
+            "file_name": "KelpCam19_20221103T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3400_raw.png"
+        },
+        {
+            "id": 31081,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0180_raw.png"
+        },
+        {
+            "id": 6551,
+            "file_name": "KelpCam06_20220819T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2380_raw.png"
+        },
+        {
+            "id": 8263,
+            "file_name": "KelpCam14_20220321T080153_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0100_raw.png"
+        },
+        {
+            "id": 18039,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2590_raw.png"
+        },
+        {
+            "id": 456,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0170_raw.png"
+        },
+        {
+            "id": 20114,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3500_raw.png"
+        },
+        {
+            "id": 10650,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2050_raw.png"
+        },
+        {
+            "id": 26178,
+            "file_name": "KelpCam17_20220523T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0640_raw.png"
+        },
+        {
+            "id": 27974,
+            "file_name": "KelpCam18_20220728T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1950_raw.png"
+        },
+        {
+            "id": 36338,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0990_raw.png"
+        },
+        {
+            "id": 26059,
+            "file_name": "KelpCam21_20220913T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2770_raw.png"
+        },
+        {
+            "id": 30285,
+            "file_name": "KelpCam01_20220811T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1050_raw.png"
+        },
+        {
+            "id": 23778,
+            "file_name": "KelpCam08_20221013T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2680_raw.png"
+        },
+        {
+            "id": 6837,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0970_raw.png"
+        },
+        {
+            "id": 6801,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2070_raw.png"
+        },
+        {
+            "id": 29933,
+            "file_name": "KelpCam21_20220828T170156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0150_raw.png"
+        },
+        {
+            "id": 40011,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2030_raw.png"
+        },
+        {
+            "id": 32964,
+            "file_name": "KelpCam21_20220925T190155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0670_raw.png"
+        },
+        {
+            "id": 8386,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2480_raw.png"
+        },
+        {
+            "id": 7483,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3020_raw.png"
+        },
+        {
+            "id": 15120,
+            "file_name": "KelpCam01_20220814T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2650_raw.png"
+        },
+        {
+            "id": 33713,
+            "file_name": "KelpCam22_20220930T170158_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2900_raw.png"
+        },
+        {
+            "id": 18265,
+            "file_name": "KelpCam21_20220922T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0730_raw.png"
+        },
+        {
+            "id": 33428,
+            "file_name": "KelpCam06_20220820T150155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3060_raw.png"
+        },
+        {
+            "id": 33938,
+            "file_name": "KelpCam06_20221102T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1470_raw.png"
+        },
+        {
+            "id": 1664,
+            "file_name": "KelpCam01_20220806T070157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3007_raw.png"
+        },
+        {
+            "id": 31630,
+            "file_name": "KelpCam21_20220907T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1760_raw.png"
+        },
+        {
+            "id": 35740,
+            "file_name": "KelpCam01_20220731T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1497_raw.png"
+        },
+        {
+            "id": 4122,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1940_raw.png"
+        },
+        {
+            "id": 33174,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2100_raw.png"
+        },
+        {
+            "id": 8436,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1870_raw.png"
+        },
+        {
+            "id": 14338,
+            "file_name": "KelpCam06_20220823T090153_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0980_raw.png"
+        },
+        {
+            "id": 30779,
+            "file_name": "KelpCam21_20221024T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3060_raw.png"
+        },
+        {
+            "id": 37052,
+            "file_name": "KelpCam01_20220806T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3151_raw.png"
+        },
+        {
+            "id": 7092,
+            "file_name": "KelpCam06_20220904T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1500_raw.png"
+        },
+        {
+            "id": 20542,
+            "file_name": "KelpCam01_20220804T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3022_raw.png"
+        },
+        {
+            "id": 6042,
+            "file_name": "KelpCam12_20220911T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3290_raw.png"
+        },
+        {
+            "id": 1097,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1190_raw.png"
+        },
+        {
+            "id": 7630,
+            "file_name": "KelpCam20_20221011T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0570_raw.png"
+        },
+        {
+            "id": 2272,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0260_raw.png"
+        },
+        {
+            "id": 8455,
+            "file_name": "KelpCam06_20221104T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1640_raw.png"
+        },
+        {
+            "id": 29207,
+            "file_name": "KelpCam01_20220817T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1530_raw.png"
+        },
+        {
+            "id": 5042,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0940_raw.png"
+        },
+        {
+            "id": 30665,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3270_raw.png"
+        },
+        {
+            "id": 33600,
+            "file_name": "KelpCam07_20220405T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0820_raw.png"
+        },
+        {
+            "id": 20903,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1180_raw.png"
+        },
+        {
+            "id": 18842,
+            "file_name": "KelpCam17_20221021T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2700_raw.png"
+        },
+        {
+            "id": 7257,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0660_raw.png"
+        },
+        {
+            "id": 18943,
+            "file_name": "KelpCam24_20221020T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2870_raw.png"
+        },
+        {
+            "id": 9398,
+            "file_name": "KelpCam01_20220401T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1001_raw.png"
+        },
+        {
+            "id": 6034,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0590_raw.png"
+        },
+        {
+            "id": 14961,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0690_raw.png"
+        },
+        {
+            "id": 14194,
+            "file_name": "KelpCam04_20220725T060156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0620_raw.png"
+        },
+        {
+            "id": 14043,
+            "file_name": "KelpCam06_20220916T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2290_raw.png"
+        },
+        {
+            "id": 13383,
+            "file_name": "KelpCam03_20220703T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3540_raw.png"
+        },
+        {
+            "id": 881,
+            "file_name": "KelpCam12_20220330T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1290_raw.png"
+        },
+        {
+            "id": 10095,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1590_raw.png"
+        },
+        {
+            "id": 32215,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0698_raw.png"
+        },
+        {
+            "id": 34366,
+            "file_name": "KelpCam08_20220804T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0934_raw.png"
+        },
+        {
+            "id": 35043,
+            "file_name": "KelpCam01_20220806T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3279_raw.png"
+        },
+        {
+            "id": 5917,
+            "file_name": "KelpCam18_20220720T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0480_raw.png"
+        },
+        {
+            "id": 33953,
+            "file_name": "KelpCam04_20220727T210156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2803_raw.png"
+        },
+        {
+            "id": 8625,
+            "file_name": "KelpCam01_20220804T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3040_raw.png"
+        },
+        {
+            "id": 36337,
+            "file_name": "KelpCam21_20220928T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0920_raw.png"
+        },
+        {
+            "id": 6301,
+            "file_name": "KelpCam01_20220324T180156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0680_raw.png"
+        },
+        {
+            "id": 25825,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2270_raw.png"
+        },
+        {
+            "id": 10649,
+            "file_name": "KelpCam21_20220403T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0172_raw.png"
+        },
+        {
+            "id": 8483,
+            "file_name": "KelpCam07_20220410T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2620_raw.png"
+        },
+        {
+            "id": 23880,
+            "file_name": "KelpCam21_20220911T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2130_raw.png"
+        },
+        {
+            "id": 13406,
+            "file_name": "KelpCam04_20220624T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1050_raw.png"
+        },
+        {
+            "id": 35897,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1000_raw.png"
+        },
+        {
+            "id": 35066,
+            "file_name": "KelpCam21_20220904T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1200_raw.png"
+        },
+        {
+            "id": 38724,
+            "file_name": "KelpCam18_20220729T160157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2530_raw.png"
+        },
+        {
+            "id": 9559,
+            "file_name": "KelpCam21_20220923T110158_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2340_raw.png"
+        },
+        {
+            "id": 34170,
+            "file_name": "KelpCam01_20220326T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2075_raw.png"
+        },
+        {
+            "id": 17084,
+            "file_name": "KelpCam01_20220811T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1050_raw.png"
+        },
+        {
+            "id": 12623,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2340_raw.png"
+        },
+        {
+            "id": 39914,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2951_raw.png"
+        },
+        {
+            "id": 11412,
+            "file_name": "KelpCam01_20220804T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3010_raw.png"
+        },
+        {
+            "id": 4355,
+            "file_name": "KelpCam03_20220706T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0990_raw.png"
+        },
+        {
+            "id": 31675,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2640_raw.png"
+        },
+        {
+            "id": 11403,
+            "file_name": "KelpCam06_20220820T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2290_raw.png"
+        },
+        {
+            "id": 15479,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0020_raw.png"
+        },
+        {
+            "id": 23754,
+            "file_name": "KelpCam21_20220908T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1680_raw.png"
+        },
+        {
+            "id": 12754,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1160_raw.png"
+        },
+        {
+            "id": 13966,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0750_raw.png"
+        },
+        {
+            "id": 6684,
+            "file_name": "KelpCam06_20220831T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1020_raw.png"
+        },
+        {
+            "id": 36476,
+            "file_name": "KelpCam01_20220708T210155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1630_raw.png"
+        },
+        {
+            "id": 18938,
+            "file_name": "KelpCam21_20220826T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1640_raw.png"
+        },
+        {
+            "id": 13055,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3550_raw.png"
+        },
+        {
+            "id": 21282,
+            "file_name": "KelpCam13_20221003T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1140_raw.png"
+        },
+        {
+            "id": 25064,
+            "file_name": "KelpCam01_20220804T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2967_raw.png"
+        },
+        {
+            "id": 19396,
+            "file_name": "KelpCam21_20220403T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0258_raw.png"
+        },
+        {
+            "id": 21335,
+            "file_name": "KelpCam17_20220514T170155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0260_raw.png"
+        },
+        {
+            "id": 23001,
+            "file_name": "KelpCam18_20220802T180157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1230_raw.png"
+        },
+        {
+            "id": 972,
+            "file_name": "KelpCam03_20220704T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1570_raw.png"
+        },
+        {
+            "id": 3656,
+            "file_name": "KelpCam04_20220724T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2310_raw.png"
+        },
+        {
+            "id": 10040,
+            "file_name": "KelpCam08_20220723T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1330_raw.png"
+        },
+        {
+            "id": 26105,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3160_raw.png"
+        },
+        {
+            "id": 13634,
+            "file_name": "KelpCam17_20220428T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0840_raw.png"
+        },
+        {
+            "id": 1159,
+            "file_name": "KelpCam01_20220702T200154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0390_raw.png"
+        },
+        {
+            "id": 24998,
+            "file_name": "KelpCam03_20220630T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0870_raw.png"
+        },
+        {
+            "id": 23240,
+            "file_name": "KelpCam01_20220810T090157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1423_raw.png"
+        },
+        {
+            "id": 3162,
+            "file_name": "KelpCam03_20220701T200154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0440_raw.png"
+        },
+        {
+            "id": 34546,
+            "file_name": "KelpCam07_20220528T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0000_raw.png"
+        },
+        {
+            "id": 25683,
+            "file_name": "KelpCam18_20220723T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0100_raw.png"
+        },
+        {
+            "id": 3229,
+            "file_name": "KelpCam13_20221011T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2050_raw.png"
+        },
+        {
+            "id": 10026,
+            "file_name": "KelpCam21_20220330T070157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2167_raw.png"
+        },
+        {
+            "id": 34795,
+            "file_name": "KelpCam18_20220726T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1850_raw.png"
+        },
+        {
+            "id": 20716,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2310_raw.png"
+        },
+        {
+            "id": 16981,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0702_raw.png"
+        },
+        {
+            "id": 1465,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1670_raw.png"
+        },
+        {
+            "id": 38064,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1519_raw.png"
+        },
+        {
+            "id": 12626,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2947_raw.png"
+        },
+        {
+            "id": 32500,
+            "file_name": "KelpCam21_20220907T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0190_raw.png"
+        },
+        {
+            "id": 28082,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0150_raw.png"
+        },
+        {
+            "id": 30968,
+            "file_name": "KelpCam01_20220811T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0270_raw.png"
+        },
+        {
+            "id": 9088,
+            "file_name": "KelpCam12_20220416T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0000_raw.png"
+        },
+        {
+            "id": 794,
+            "file_name": "KelpCam04_20220727T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1180_raw.png"
+        },
+        {
+            "id": 15439,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2946_raw.png"
+        },
+        {
+            "id": 35591,
+            "file_name": "KelpCam19_20221021T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3450_raw.png"
+        },
+        {
+            "id": 18279,
+            "file_name": "KelpCam21_20220917T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2590_raw.png"
+        },
+        {
+            "id": 29690,
+            "file_name": "KelpCam21_20220915T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1690_raw.png"
+        },
+        {
+            "id": 16306,
+            "file_name": "KelpCam18_20220721T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1860_raw.png"
+        },
+        {
+            "id": 21111,
+            "file_name": "KelpCam04_20220725T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3289_raw.png"
+        },
+        {
+            "id": 15968,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2530_raw.png"
+        },
+        {
+            "id": 7237,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2950_raw.png"
+        },
+        {
+            "id": 7849,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2320_raw.png"
+        },
+        {
+            "id": 15521,
+            "file_name": "KelpCam21_20221021T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3270_raw.png"
+        },
+        {
+            "id": 19708,
+            "file_name": "KelpCam23_20221020T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0490_raw.png"
+        },
+        {
+            "id": 4507,
+            "file_name": "KelpCam03_20220706T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1030_raw.png"
+        },
+        {
+            "id": 16562,
+            "file_name": "KelpCam06_20220518T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2360_raw.png"
+        },
+        {
+            "id": 24521,
+            "file_name": "KelpCam06_20220904T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3340_raw.png"
+        },
+        {
+            "id": 1574,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2320_raw.png"
+        },
+        {
+            "id": 9659,
+            "file_name": "KelpCam01_20220807T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0360_raw.png"
+        },
+        {
+            "id": 15212,
+            "file_name": "KelpCam24_20221101T150157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2530_raw.png"
+        },
+        {
+            "id": 39752,
+            "file_name": "KelpCam01_20220807T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2217_raw.png"
+        },
+        {
+            "id": 3901,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2600_raw.png"
+        },
+        {
+            "id": 21546,
+            "file_name": "KelpCam06_20220820T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0010_raw.png"
+        },
+        {
+            "id": 168,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0040_raw.png"
+        },
+        {
+            "id": 14413,
+            "file_name": "KelpCam06_20220910T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1690_raw.png"
+        },
+        {
+            "id": 29056,
+            "file_name": "KelpCam01_20220806T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2428_raw.png"
+        },
+        {
+            "id": 11440,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1516_raw.png"
+        },
+        {
+            "id": 3400,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3150_raw.png"
+        },
+        {
+            "id": 2734,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0695_raw.png"
+        },
+        {
+            "id": 22646,
+            "file_name": "KelpCam03_20220705T050154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2660_raw.png"
+        },
+        {
+            "id": 33291,
+            "file_name": "KelpCam21_20220821T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1230_raw.png"
+        },
+        {
+            "id": 33513,
+            "file_name": "KelpCam18_20220802T180157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1330_raw.png"
+        },
+        {
+            "id": 37144,
+            "file_name": "KelpCam01_20220810T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2370_raw.png"
+        },
+        {
+            "id": 39330,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1340_raw.png"
+        },
+        {
+            "id": 34021,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2370_raw.png"
+        },
+        {
+            "id": 38024,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3170_raw.png"
+        },
+        {
+            "id": 35926,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1010_raw.png"
+        },
+        {
+            "id": 32078,
+            "file_name": "KelpCam01_20220806T160157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1723_raw.png"
+        },
+        {
+            "id": 12305,
+            "file_name": "KelpCam18_20220804T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0850_raw.png"
+        },
+        {
+            "id": 39903,
+            "file_name": "KelpCam01_20220815T160156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0610_raw.png"
+        },
+        {
+            "id": 21421,
+            "file_name": "KelpCam06_20220821T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2920_raw.png"
+        },
+        {
+            "id": 33425,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2400_raw.png"
+        },
+        {
+            "id": 27115,
+            "file_name": "KelpCam01_20220810T160156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2280_raw.png"
+        },
+        {
+            "id": 8594,
+            "file_name": "KelpCam19_20221104T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0850_raw.png"
+        },
+        {
+            "id": 23835,
+            "file_name": "KelpCam03_20220706T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0520_raw.png"
+        },
+        {
+            "id": 15503,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3480_raw.png"
+        },
+        {
+            "id": 16085,
+            "file_name": "KelpCam18_20220721T101337_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2090_raw.png"
+        },
+        {
+            "id": 5631,
+            "file_name": "KelpCam08_20220929T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1250_raw.png"
+        },
+        {
+            "id": 27269,
+            "file_name": "KelpCam07_20220907T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3430_raw.png"
+        },
+        {
+            "id": 33305,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2510_raw.png"
+        },
+        {
+            "id": 29981,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1107_raw.png"
+        },
+        {
+            "id": 4510,
+            "file_name": "KelpCam01_20220804T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3640_raw.png"
+        },
+        {
+            "id": 36447,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1020_raw.png"
+        },
+        {
+            "id": 6005,
+            "file_name": "KelpCam01_20220324T180156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1160_raw.png"
+        },
+        {
+            "id": 34240,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1740_raw.png"
+        },
+        {
+            "id": 5816,
+            "file_name": "KelpCam06_20220830T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1260_raw.png"
+        },
+        {
+            "id": 16618,
+            "file_name": "KelpCam01_20220814T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3230_raw.png"
+        },
+        {
+            "id": 12426,
+            "file_name": "KelpCam01_20220704T180156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2060_raw.png"
+        },
+        {
+            "id": 30503,
+            "file_name": "KelpCam23_20221104T140156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2300_raw.png"
+        },
+        {
+            "id": 4203,
+            "file_name": "KelpCam01_20220809T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2860_raw.png"
+        },
+        {
+            "id": 11434,
+            "file_name": "KelpCam17_20221017T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2000_raw.png"
+        },
+        {
+            "id": 988,
+            "file_name": "KelpCam19_20221009T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0010_raw.png"
+        },
+        {
+            "id": 6627,
+            "file_name": "KelpCam06_20220825T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1620_raw.png"
+        },
+        {
+            "id": 28880,
+            "file_name": "KelpCam01_20220807T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1070_raw.png"
+        },
+        {
+            "id": 36567,
+            "file_name": "KelpCam17_20220527T130157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0810_raw.png"
+        },
+        {
+            "id": 7035,
+            "file_name": "KelpCam20_20220518T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_-002_raw.png"
+        },
+        {
+            "id": 39749,
+            "file_name": "KelpCam21_20220824T100158_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3310_raw.png"
+        },
+        {
+            "id": 12266,
+            "file_name": "KelpCam01_20220804T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1890_raw.png"
+        },
+        {
+            "id": 5026,
+            "file_name": "KelpCam01_20220731T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2158_raw.png"
+        },
+        {
+            "id": 1601,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2330_raw.png"
+        },
+        {
+            "id": 28633,
+            "file_name": "KelpCam01_20220819T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1560_raw.png"
+        },
+        {
+            "id": 10879,
+            "file_name": "KelpCam06_20221104T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0470_raw.png"
+        },
+        {
+            "id": 19202,
+            "file_name": "KelpCam17_20220831T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1500_raw.png"
+        },
+        {
+            "id": 32230,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0800_raw.png"
+        },
+        {
+            "id": 14592,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3210_raw.png"
+        },
+        {
+            "id": 5224,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0480_raw.png"
+        },
+        {
+            "id": 19892,
+            "file_name": "KelpCam06_20220905T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1610_raw.png"
+        },
+        {
+            "id": 7711,
+            "file_name": "KelpCam06_20220824T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0910_raw.png"
+        },
+        {
+            "id": 33509,
+            "file_name": "KelpCam01_20220707T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2480_raw.png"
+        },
+        {
+            "id": 3328,
+            "file_name": "KelpCam12_20220707T180156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0890_raw.png"
+        },
+        {
+            "id": 36274,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0980_raw.png"
+        },
+        {
+            "id": 30010,
+            "file_name": "KelpCam01_20220815T180155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0310_raw.png"
+        },
+        {
+            "id": 9935,
+            "file_name": "KelpCam22_20221002T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0460_raw.png"
+        },
+        {
+            "id": 15265,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2280_raw.png"
+        },
+        {
+            "id": 37973,
+            "file_name": "KelpCam01_20220804T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2900_raw.png"
+        },
+        {
+            "id": 16221,
+            "file_name": "KelpCam04_20220404T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0590_raw.png"
+        },
+        {
+            "id": 37776,
+            "file_name": "KelpCam18_20220804T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0990_raw.png"
+        },
+        {
+            "id": 17890,
+            "file_name": "KelpCam08_20220804T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0930_raw.png"
+        },
+        {
+            "id": 14595,
+            "file_name": "KelpCam20_20220519T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0000_raw.png"
+        },
+        {
+            "id": 34028,
+            "file_name": "KelpCam13_20220325T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3220_raw.png"
+        },
+        {
+            "id": 18416,
+            "file_name": "KelpCam06_20220827T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1640_raw.png"
+        },
+        {
+            "id": 26968,
+            "file_name": "KelpCam01_20220704T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3380_raw.png"
+        },
+        {
+            "id": 33632,
+            "file_name": "KelpCam11_20220320T150155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0820_raw.png"
+        },
+        {
+            "id": 4172,
+            "file_name": "KelpCam19_20220820T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1570_raw.png"
+        },
+        {
+            "id": 19211,
+            "file_name": "KelpCam09_20220310T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2905_raw.png"
+        },
+        {
+            "id": 34447,
+            "file_name": "KelpCam06_20220823T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0380_raw.png"
+        },
+        {
+            "id": 25014,
+            "file_name": "KelpCam21_20220912T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2210_raw.png"
+        },
+        {
+            "id": 22308,
+            "file_name": "KelpCam01_20220811T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1430_raw.png"
+        },
+        {
+            "id": 17771,
+            "file_name": "KelpCam18_20220726T170157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0840_raw.png"
+        },
+        {
+            "id": 8940,
+            "file_name": "KelpCam04_20220401T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0470_raw.png"
+        },
+        {
+            "id": 10363,
+            "file_name": "KelpCam01_20220805T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3030_raw.png"
+        },
+        {
+            "id": 15693,
+            "file_name": "KelpCam20_20221010T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1130_raw.png"
+        },
+        {
+            "id": 235,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1523_raw.png"
+        },
+        {
+            "id": 4637,
+            "file_name": "KelpCam21_20220917T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3680_raw.png"
+        },
+        {
+            "id": 16387,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2340_raw.png"
+        },
+        {
+            "id": 39312,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2220_raw.png"
+        },
+        {
+            "id": 2118,
+            "file_name": "KelpCam01_20220811T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1384_raw.png"
+        },
+        {
+            "id": 16569,
+            "file_name": "KelpCam17_20220524T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0380_raw.png"
+        },
+        {
+            "id": 32159,
+            "file_name": "KelpCam08_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2618_raw.png"
+        },
+        {
+            "id": 1279,
+            "file_name": "KelpCam01_20220809T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1180_raw.png"
+        },
+        {
+            "id": 20889,
+            "file_name": "KelpCam17_20221102T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1150_raw.png"
+        },
+        {
+            "id": 3452,
+            "file_name": "KelpCam24_20221102T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3680_raw.png"
+        },
+        {
+            "id": 29850,
+            "file_name": "KelpCam21_20220915T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0320_raw.png"
+        },
+        {
+            "id": 18060,
+            "file_name": "KelpCam01_20220818T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2120_raw.png"
+        },
+        {
+            "id": 28142,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0140_raw.png"
+        },
+        {
+            "id": 33527,
+            "file_name": "KelpCam21_20221030T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3560_raw.png"
+        },
+        {
+            "id": 37880,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2460_raw.png"
+        },
+        {
+            "id": 15381,
+            "file_name": "KelpCam04_20220724T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2560_raw.png"
+        },
+        {
+            "id": 15916,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2520_raw.png"
+        },
+        {
+            "id": 36261,
+            "file_name": "KelpCam24_20221021T170156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0050_raw.png"
+        },
+        {
+            "id": 36755,
+            "file_name": "KelpCam22_20221004T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1530_raw.png"
+        },
+        {
+            "id": 39459,
+            "file_name": "KelpCam06_20220826T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3530_raw.png"
+        },
+        {
+            "id": 8414,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2490_raw.png"
+        },
+        {
+            "id": 32034,
+            "file_name": "KelpCam04_20220326T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1020_raw.png"
+        },
+        {
+            "id": 29688,
+            "file_name": "KelpCam05_20220321T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2650_raw.png"
+        },
+        {
+            "id": 1627,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2100_raw.png"
+        },
+        {
+            "id": 13263,
+            "file_name": "KelpCam21_20221021T170155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1740_raw.png"
+        },
+        {
+            "id": 15169,
+            "file_name": "KelpCam20_20221010T160155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2120_raw.png"
+        },
+        {
+            "id": 561,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1930_raw.png"
+        },
+        {
+            "id": 9163,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0701_raw.png"
+        },
+        {
+            "id": 5426,
+            "file_name": "KelpCam07_20220826T090153_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1450_raw.png"
+        },
+        {
+            "id": 24609,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2040_raw.png"
+        },
+        {
+            "id": 35020,
+            "file_name": "KelpCam01_20220815T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0399_raw.png"
+        },
+        {
+            "id": 13685,
+            "file_name": "KelpCam21_20220906T140156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3020_raw.png"
+        },
+        {
+            "id": 33102,
+            "file_name": "KelpCam05_20220309T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0630_raw.png"
+        },
+        {
+            "id": 37158,
+            "file_name": "KelpCam21_20220920T160155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1720_raw.png"
+        },
+        {
+            "id": 13729,
+            "file_name": "KelpCam01_20220806T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3025_raw.png"
+        },
+        {
+            "id": 2594,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1900_raw.png"
+        },
+        {
+            "id": 31092,
+            "file_name": "KelpCam08_20221007T170156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1450_raw.png"
+        },
+        {
+            "id": 39521,
+            "file_name": "KelpCam04_20220722T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2250_raw.png"
+        },
+        {
+            "id": 29441,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2120_raw.png"
+        },
+        {
+            "id": 9630,
+            "file_name": "KelpCam12_20220309T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0210_raw.png"
+        },
+        {
+            "id": 20943,
+            "file_name": "KelpCam05_20220309T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2200_raw.png"
+        },
+        {
+            "id": 40039,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2020_raw.png"
+        },
+        {
+            "id": 17366,
+            "file_name": "KelpCam03_20220711T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3320_raw.png"
+        },
+        {
+            "id": 3998,
+            "file_name": "KelpCam01_20220811T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1080_raw.png"
+        },
+        {
+            "id": 8865,
+            "file_name": "KelpCam21_20220908T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2490_raw.png"
+        },
+        {
+            "id": 31896,
+            "file_name": "KelpCam06_20220829T200154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2840_raw.png"
+        },
+        {
+            "id": 19029,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1340_raw.png"
+        },
+        {
+            "id": 30570,
+            "file_name": "KelpCam18_20220723T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2380_raw.png"
+        },
+        {
+            "id": 30114,
+            "file_name": "KelpCam22_20221001T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2240_raw.png"
+        },
+        {
+            "id": 10702,
+            "file_name": "KelpCam23_20221022T110155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1870_raw.png"
+        },
+        {
+            "id": 26012,
+            "file_name": "KelpCam17_20220525T180157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1510_raw.png"
+        },
+        {
+            "id": 36931,
+            "file_name": "KelpCam01_20220811T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3487_raw.png"
+        },
+        {
+            "id": 34211,
+            "file_name": "KelpCam01_20220708T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1510_raw.png"
+        },
+        {
+            "id": 17174,
+            "file_name": "KelpCam21_20220919T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1520_raw.png"
+        },
+        {
+            "id": 30706,
+            "file_name": "KelpCam06_20220826T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3330_raw.png"
+        },
+        {
+            "id": 33649,
+            "file_name": "KelpCam21_20220827T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2530_raw.png"
+        },
+        {
+            "id": 38331,
+            "file_name": "KelpCam03_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0980_raw.png"
+        },
+        {
+            "id": 30566,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1950_raw.png"
+        },
+        {
+            "id": 16121,
+            "file_name": "KelpCam06_20220831T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2600_raw.png"
+        },
+        {
+            "id": 32371,
+            "file_name": "KelpCam01_20220807T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2008_raw.png"
+        },
+        {
+            "id": 39099,
+            "file_name": "KelpCam18_20220720T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3350_raw.png"
+        },
+        {
+            "id": 30293,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1518_raw.png"
+        },
+        {
+            "id": 9905,
+            "file_name": "KelpCam03_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0720_raw.png"
+        },
+        {
+            "id": 3664,
+            "file_name": "KelpCam12_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0720_raw.png"
+        },
+        {
+            "id": 26666,
+            "file_name": "KelpCam19_20221103T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1960_raw.png"
+        },
+        {
+            "id": 35288,
+            "file_name": "KelpCam17_20220916T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1790_raw.png"
+        },
+        {
+            "id": 21194,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1850_raw.png"
+        },
+        {
+            "id": 31961,
+            "file_name": "KelpCam03_20220708T210154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1250_raw.png"
+        },
+        {
+            "id": 8631,
+            "file_name": "KelpCam11_20220403T090157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1930_raw.png"
+        },
+        {
+            "id": 39272,
+            "file_name": "KelpCam21_20220922T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0380_raw.png"
+        },
+        {
+            "id": 36998,
+            "file_name": "KelpCam03_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0770_raw.png"
+        },
+        {
+            "id": 13913,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1740_raw.png"
+        },
+        {
+            "id": 1543,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0700_raw.png"
+        },
+        {
+            "id": 3858,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2610_raw.png"
+        },
+        {
+            "id": 33122,
+            "file_name": "KelpCam08_20220807T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1300_raw.png"
+        },
+        {
+            "id": 32017,
+            "file_name": "KelpCam06_20220409T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0950_raw.png"
+        },
+        {
+            "id": 6158,
+            "file_name": "KelpCam01_20220708T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2810_raw.png"
+        },
+        {
+            "id": 15283,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1940_raw.png"
+        },
+        {
+            "id": 24603,
+            "file_name": "KelpCam06_20221010T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1230_raw.png"
+        },
+        {
+            "id": 13555,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1520_raw.png"
+        },
+        {
+            "id": 30091,
+            "file_name": "KelpCam12_20220702T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3510_raw.png"
+        },
+        {
+            "id": 36757,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0680_raw.png"
+        },
+        {
+            "id": 21576,
+            "file_name": "KelpCam12_20220710T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0000_raw.png"
+        },
+        {
+            "id": 34816,
+            "file_name": "KelpCam19_20221021T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1400_raw.png"
+        },
+        {
+            "id": 4551,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2390_raw.png"
+        },
+        {
+            "id": 15812,
+            "file_name": "KelpCam03_20220707T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1630_raw.png"
+        },
+        {
+            "id": 19834,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1966_raw.png"
+        },
+        {
+            "id": 35978,
+            "file_name": "KelpCam18_20220804T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0920_raw.png"
+        },
+        {
+            "id": 8871,
+            "file_name": "KelpCam16_20220920T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1600_raw.png"
+        },
+        {
+            "id": 23578,
+            "file_name": "KelpCam13_20221008T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0090_raw.png"
+        },
+        {
+            "id": 3869,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1580_raw.png"
+        },
+        {
+            "id": 11002,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0070_raw.png"
+        },
+        {
+            "id": 7726,
+            "file_name": "KelpCam01_20220818T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1410_raw.png"
+        },
+        {
+            "id": 10426,
+            "file_name": "KelpCam04_20220725T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3279_raw.png"
+        },
+        {
+            "id": 18476,
+            "file_name": "KelpCam18_20220720T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0520_raw.png"
+        },
+        {
+            "id": 15909,
+            "file_name": "KelpCam01_20220816T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0380_raw.png"
+        },
+        {
+            "id": 11847,
+            "file_name": "KelpCam23_20221226T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1320_raw.png"
+        },
+        {
+            "id": 17426,
+            "file_name": "KelpCam01_20220807T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1817_raw.png"
+        },
+        {
+            "id": 12506,
+            "file_name": "KelpCam01_20220810T160156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2310_raw.png"
+        },
+        {
+            "id": 32220,
+            "file_name": "KelpCam01_20220807T090157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3151_raw.png"
+        },
+        {
+            "id": 7984,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1522_raw.png"
+        },
+        {
+            "id": 26914,
+            "file_name": "KelpCam03_20220706T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1000_raw.png"
+        },
+        {
+            "id": 39329,
+            "file_name": "KelpCam01_20220706T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0790_raw.png"
+        },
+        {
+            "id": 27399,
+            "file_name": "KelpCam01_20220810T160156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1470_raw.png"
+        },
+        {
+            "id": 34935,
+            "file_name": "KelpCam19_20221104T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0840_raw.png"
+        },
+        {
+            "id": 7388,
+            "file_name": "KelpCam08_20221004T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3150_raw.png"
+        },
+        {
+            "id": 9705,
+            "file_name": "KelpCam13_20221001T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2170_raw.png"
+        },
+        {
+            "id": 24308,
+            "file_name": "KelpCam04_20220727T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0247_raw.png"
+        },
+        {
+            "id": 21524,
+            "file_name": "KelpCam19_20221021T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0800_raw.png"
+        },
+        {
+            "id": 15165,
+            "file_name": "KelpCam15_20220311T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1800_raw.png"
+        },
+        {
+            "id": 38690,
+            "file_name": "KelpCam18_20220729T160157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2520_raw.png"
+        },
+        {
+            "id": 26185,
+            "file_name": "KelpCam12_20220404T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2010_raw.png"
+        },
+        {
+            "id": 3113,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2250_raw.png"
+        },
+        {
+            "id": 15843,
+            "file_name": "KelpCam08_20221012T130156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2160_raw.png"
+        },
+        {
+            "id": 33374,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2500_raw.png"
+        },
+        {
+            "id": 3482,
+            "file_name": "KelpCam01_20220731T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0640_raw.png"
+        },
+        {
+            "id": 26520,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2952_raw.png"
+        },
+        {
+            "id": 29594,
+            "file_name": "KelpCam09_20220310T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2834_raw.png"
+        },
+        {
+            "id": 11140,
+            "file_name": "KelpCam01_20220716T160155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0390_raw.png"
+        },
+        {
+            "id": 17493,
+            "file_name": "KelpCam14_20220624T080152_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0390_raw.png"
+        },
+        {
+            "id": 25253,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1920_raw.png"
+        },
+        {
+            "id": 5080,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0950_raw.png"
+        },
+        {
+            "id": 6563,
+            "file_name": "KelpCam12_20220404T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1950_raw.png"
+        },
+        {
+            "id": 9490,
+            "file_name": "KelpCam04_20220728T060157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0590_raw.png"
+        },
+        {
+            "id": 8473,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3180_raw.png"
+        },
+        {
+            "id": 19998,
+            "file_name": "KelpCam06_20221026T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2890_raw.png"
+        },
+        {
+            "id": 39644,
+            "file_name": "KelpCam01_20220807T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3030_raw.png"
+        },
+        {
+            "id": 3490,
+            "file_name": "KelpCam01_20220811T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2420_raw.png"
+        },
+        {
+            "id": 15006,
+            "file_name": "KelpCam01_20220813T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3410_raw.png"
+        },
+        {
+            "id": 30510,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1170_raw.png"
+        },
+        {
+            "id": 18942,
+            "file_name": "KelpCam18_20220727T210155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1860_raw.png"
+        },
+        {
+            "id": 13483,
+            "file_name": "KelpCam18_20220729T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2730_raw.png"
+        },
+        {
+            "id": 346,
+            "file_name": "KelpCam03_20220709T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0830_raw.png"
+        },
+        {
+            "id": 36699,
+            "file_name": "KelpCam04_20220727T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2680_raw.png"
+        },
+        {
+            "id": 30043,
+            "file_name": "KelpCam08_20220803T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3170_raw.png"
+        },
+        {
+            "id": 3605,
+            "file_name": "KelpCam18_20220802T180157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3120_raw.png"
+        },
+        {
+            "id": 25005,
+            "file_name": "KelpCam19_20221103T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1470_raw.png"
+        },
+        {
+            "id": 3116,
+            "file_name": "KelpCam12_20220905T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1380_raw.png"
+        },
+        {
+            "id": 36091,
+            "file_name": "KelpCam01_20220806T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3665_raw.png"
+        },
+        {
+            "id": 20984,
+            "file_name": "KelpCam04_20220728T060157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0650_raw.png"
+        },
+        {
+            "id": 24717,
+            "file_name": "KelpCam06_20220910T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2090_raw.png"
+        },
+        {
+            "id": 31040,
+            "file_name": "KelpCam06_20220820T190155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3400_raw.png"
+        },
+        {
+            "id": 9347,
+            "file_name": "KelpCam12_20220824T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1750_raw.png"
+        },
+        {
+            "id": 26368,
+            "file_name": "KelpCam21_20220904T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1470_raw.png"
+        },
+        {
+            "id": 18120,
+            "file_name": "KelpCam01_20220804T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3150_raw.png"
+        },
+        {
+            "id": 29920,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1500_raw.png"
+        },
+        {
+            "id": 13132,
+            "file_name": "KelpCam07_20220823T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2470_raw.png"
+        },
+        {
+            "id": 15089,
+            "file_name": "KelpCam01_20220707T160155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2350_raw.png"
+        },
+        {
+            "id": 1205,
+            "file_name": "KelpCam01_20220706T160155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3340_raw.png"
+        },
+        {
+            "id": 17514,
+            "file_name": "KelpCam01_20220809T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0600_raw.png"
+        },
+        {
+            "id": 32943,
+            "file_name": "KelpCam08_20220721T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3210_raw.png"
+        },
+        {
+            "id": 26835,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1970_raw.png"
+        },
+        {
+            "id": 26791,
+            "file_name": "KelpCam06_20220820T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1060_raw.png"
+        },
+        {
+            "id": 17051,
+            "file_name": "KelpCam01_20220811T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1040_raw.png"
+        },
+        {
+            "id": 17521,
+            "file_name": "KelpCam06_20220916T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0050_raw.png"
+        },
+        {
+            "id": 22842,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1810_raw.png"
+        },
+        {
+            "id": 17770,
+            "file_name": "KelpCam11_20220324T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3650_raw.png"
+        },
+        {
+            "id": 5529,
+            "file_name": "KelpCam21_20221103T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3140_raw.png"
+        },
+        {
+            "id": 19927,
+            "file_name": "KelpCam03_20220706T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1040_raw.png"
+        },
+        {
+            "id": 26157,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3170_raw.png"
+        },
+        {
+            "id": 15897,
+            "file_name": "KelpCam06_20220907T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0120_raw.png"
+        },
+        {
+            "id": 38067,
+            "file_name": "KelpCam03_20220706T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0390_raw.png"
+        },
+        {
+            "id": 40048,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0930_raw.png"
+        },
+        {
+            "id": 6943,
+            "file_name": "KelpCam06_20220820T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1080_raw.png"
+        },
+        {
+            "id": 36786,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0690_raw.png"
+        },
+        {
+            "id": 21673,
+            "file_name": "KelpCam21_20220820T150157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2080_raw.png"
+        },
+        {
+            "id": 20536,
+            "file_name": "KelpCam21_20221021T170155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1380_raw.png"
+        },
+        {
+            "id": 22501,
+            "file_name": "KelpCam03_20220706T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0580_raw.png"
+        },
+        {
+            "id": 24326,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2953_raw.png"
+        },
+        {
+            "id": 19772,
+            "file_name": "KelpCam04_20220326T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1010_raw.png"
+        },
+        {
+            "id": 29716,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0700_raw.png"
+        },
+        {
+            "id": 28916,
+            "file_name": "KelpCam06_20221005T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2350_raw.png"
+        },
+        {
+            "id": 2541,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1910_raw.png"
+        },
+        {
+            "id": 30287,
+            "file_name": "KelpCam07_20220930T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0030_raw.png"
+        },
+        {
+            "id": 35311,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2370_raw.png"
+        },
+        {
+            "id": 18580,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2220_raw.png"
+        },
+        {
+            "id": 7706,
+            "file_name": "KelpCam06_20220829T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0250_raw.png"
+        },
+        {
+            "id": 37359,
+            "file_name": "KelpCam04_20220722T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2310_raw.png"
+        },
+        {
+            "id": 21895,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1040_raw.png"
+        },
+        {
+            "id": 27091,
+            "file_name": "KelpCam01_20220706T180155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3210_raw.png"
+        },
+        {
+            "id": 9441,
+            "file_name": "KelpCam04_20220728T060157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0580_raw.png"
+        },
+        {
+            "id": 36560,
+            "file_name": "KelpCam17_20220823T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2330_raw.png"
+        },
+        {
+            "id": 30479,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0510_raw.png"
+        },
+        {
+            "id": 19977,
+            "file_name": "KelpCam06_20220910T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2100_raw.png"
+        },
+        {
+            "id": 29329,
+            "file_name": "KelpCam21_20220826T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0360_raw.png"
+        },
+        {
+            "id": 34410,
+            "file_name": "KelpCam12_20220905T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1400_raw.png"
+        },
+        {
+            "id": 22747,
+            "file_name": "KelpCam21_20220403T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0140_raw.png"
+        },
+        {
+            "id": 31545,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1900_raw.png"
+        },
+        {
+            "id": 20906,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1570_raw.png"
+        },
+        {
+            "id": 33024,
+            "file_name": "KelpCam21_20220913T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2850_raw.png"
+        },
+        {
+            "id": 33543,
+            "file_name": "KelpCam05_20220309T130156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1810_raw.png"
+        },
+        {
+            "id": 1939,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0730_raw.png"
+        },
+        {
+            "id": 15686,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2420_raw.png"
+        },
+        {
+            "id": 35594,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3060_raw.png"
+        },
+        {
+            "id": 2808,
+            "file_name": "KelpCam06_20220820T170153_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1570_raw.png"
+        },
+        {
+            "id": 27153,
+            "file_name": "KelpCam13_20220325T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2890_raw.png"
+        },
+        {
+            "id": 12246,
+            "file_name": "KelpCam07_20220409T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0090_raw.png"
+        },
+        {
+            "id": 30214,
+            "file_name": "KelpCam23_20221023T150155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3100_raw.png"
+        },
+        {
+            "id": 22796,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1800_raw.png"
+        },
+        {
+            "id": 36069,
+            "file_name": "KelpCam01_20220806T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2161_raw.png"
+        },
+        {
+            "id": 34097,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2150_raw.png"
+        },
+        {
+            "id": 3260,
+            "file_name": "KelpCam06_20220905T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1580_raw.png"
+        },
+        {
+            "id": 9552,
+            "file_name": "KelpCam04_20220722T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2340_raw.png"
+        },
+        {
+            "id": 35911,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0470_raw.png"
+        },
+        {
+            "id": 20896,
+            "file_name": "KelpCam04_20220723T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3390_raw.png"
+        },
+        {
+            "id": 30599,
+            "file_name": "KelpCam01_20220813T060155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0040_raw.png"
+        },
+        {
+            "id": 10107,
+            "file_name": "KelpCam06_20220907T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3630_raw.png"
+        },
+        {
+            "id": 3246,
+            "file_name": "KelpCam04_20220330T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3200_raw.png"
+        },
+        {
+            "id": 30387,
+            "file_name": "KelpCam01_20220731T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2012_raw.png"
+        },
+        {
+            "id": 937,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1108_raw.png"
+        },
+        {
+            "id": 26540,
+            "file_name": "KelpCam06_20221008T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3440_raw.png"
+        },
+        {
+            "id": 25484,
+            "file_name": "KelpCam17_20221029T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3480_raw.png"
+        },
+        {
+            "id": 3369,
+            "file_name": "KelpCam12_20220907T130156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1340_raw.png"
+        },
+        {
+            "id": 18495,
+            "file_name": "KelpCam04_20220726T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1240_raw.png"
+        },
+        {
+            "id": 28610,
+            "file_name": "KelpCam12_20220410T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1780_raw.png"
+        },
+        {
+            "id": 20270,
+            "file_name": "KelpCam06_20221016T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0850_raw.png"
+        },
+        {
+            "id": 10448,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2450_raw.png"
+        },
+        {
+            "id": 39713,
+            "file_name": "KelpCam06_20220901T130157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3210_raw.png"
+        },
+        {
+            "id": 35748,
+            "file_name": "KelpCam18_20220705T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0070_raw.png"
+        },
+        {
+            "id": 15239,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2290_raw.png"
+        },
+        {
+            "id": 6902,
+            "file_name": "KelpCam05_20220309T130156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1770_raw.png"
+        },
+        {
+            "id": 2611,
+            "file_name": "KelpCam06_20220915T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0650_raw.png"
+        },
+        {
+            "id": 32821,
+            "file_name": "KelpCam15_20220311T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1820_raw.png"
+        },
+        {
+            "id": 22194,
+            "file_name": "KelpCam06_20220830T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2220_raw.png"
+        },
+        {
+            "id": 8504,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3190_raw.png"
+        },
+        {
+            "id": 26319,
+            "file_name": "KelpCam09_20221105T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2890_raw.png"
+        },
+        {
+            "id": 19588,
+            "file_name": "KelpCam04_20220724T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2630_raw.png"
+        },
+        {
+            "id": 10802,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0696_raw.png"
+        },
+        {
+            "id": 15823,
+            "file_name": "KelpCam07_20220825T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2780_raw.png"
+        },
+        {
+            "id": 33454,
+            "file_name": "KelpCam15_20220321T110155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0430_raw.png"
+        },
+        {
+            "id": 23688,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2760_raw.png"
+        },
+        {
+            "id": 13280,
+            "file_name": "KelpCam18_20220707T070157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1970_raw.png"
+        },
+        {
+            "id": 4590,
+            "file_name": "KelpCam21_20220917T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3690_raw.png"
+        },
+        {
+            "id": 36654,
+            "file_name": "KelpCam18_20220804T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0120_raw.png"
+        },
+        {
+            "id": 32237,
+            "file_name": "KelpCam18_20220802T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3060_raw.png"
+        },
+        {
+            "id": 24979,
+            "file_name": "KelpCam04_20220727T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2650_raw.png"
+        },
+        {
+            "id": 7908,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1100_raw.png"
+        },
+        {
+            "id": 14459,
+            "file_name": "KelpCam01_20220805T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2210_raw.png"
+        },
+        {
+            "id": 37763,
+            "file_name": "KelpCam21_20220825T180155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1890_raw.png"
+        },
+        {
+            "id": 3152,
+            "file_name": "KelpCam18_20220630T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3110_raw.png"
+        },
+        {
+            "id": 30054,
+            "file_name": "KelpCam21_20220911T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1650_raw.png"
+        },
+        {
+            "id": 22484,
+            "file_name": "KelpCam16_20220924T180155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3170_raw.png"
+        },
+        {
+            "id": 26724,
+            "file_name": "KelpCam17_20221103T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3480_raw.png"
+        },
+        {
+            "id": 34930,
+            "file_name": "KelpCam17_20221022T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1100_raw.png"
+        },
+        {
+            "id": 29869,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1510_raw.png"
+        },
+        {
+            "id": 26995,
+            "file_name": "KelpCam03_20220708T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0700_raw.png"
+        },
+        {
+            "id": 19954,
+            "file_name": "KelpCam18_20220802T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3050_raw.png"
+        },
+        {
+            "id": 5204,
+            "file_name": "KelpCam01_20220804T200155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2940_raw.png"
+        },
+        {
+            "id": 16606,
+            "file_name": "KelpCam03_20220706T140156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1030_raw.png"
+        },
+        {
+            "id": 25855,
+            "file_name": "KelpCam06_20220823T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0420_raw.png"
+        },
+        {
+            "id": 23281,
+            "file_name": "KelpCam06_20220820T090154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1990_raw.png"
+        },
+        {
+            "id": 7414,
+            "file_name": "KelpCam12_20220404T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2150_raw.png"
+        },
+        {
+            "id": 28529,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1980_raw.png"
+        },
+        {
+            "id": 34474,
+            "file_name": "KelpCam06_20221102T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0940_raw.png"
+        },
+        {
+            "id": 39548,
+            "file_name": "KelpCam18_20220721T101337_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1970_raw.png"
+        },
+        {
+            "id": 35087,
+            "file_name": "KelpCam22_20221005T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2520_raw.png"
+        },
+        {
+            "id": 3280,
+            "file_name": "KelpCam04_20220727T210156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1911_raw.png"
+        },
+        {
+            "id": 31672,
+            "file_name": "KelpCam06_20220825T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2150_raw.png"
+        },
+        {
+            "id": 14740,
+            "file_name": "KelpCam03_20220706T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0740_raw.png"
+        },
+        {
+            "id": 21032,
+            "file_name": "KelpCam04_20220728T060157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0640_raw.png"
+        },
+        {
+            "id": 34709,
+            "file_name": "KelpCam01_20220811T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1060_raw.png"
+        },
+        {
+            "id": 39476,
+            "file_name": "KelpCam18_20220729T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1750_raw.png"
+        },
+        {
+            "id": 39690,
+            "file_name": "KelpCam07_20220414T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3390_raw.png"
+        },
+        {
+            "id": 996,
+            "file_name": "KelpCam21_20221105T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2630_raw.png"
+        },
+        {
+            "id": 1583,
+            "file_name": "KelpCam08_20220930T190156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1100_raw.png"
+        },
+        {
+            "id": 3074,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2240_raw.png"
+        },
+        {
+            "id": 14928,
+            "file_name": "KelpCam12_20220411T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1390_raw.png"
+        },
+        {
+            "id": 400,
+            "file_name": "KelpCam03_20220630T060154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0160_raw.png"
+        },
+        {
+            "id": 26933,
+            "file_name": "KelpCam01_20220707T150155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2430_raw.png"
+        },
+        {
+            "id": 18048,
+            "file_name": "KelpCam17_20221105T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3000_raw.png"
+        },
+        {
+            "id": 2489,
+            "file_name": "KelpCam23_20221104T140156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2350_raw.png"
+        },
+        {
+            "id": 23605,
+            "file_name": "KelpCam03_20220707T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0300_raw.png"
+        },
+        {
+            "id": 7173,
+            "file_name": "KelpCam04_20220727T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2660_raw.png"
+        },
+        {
+            "id": 27385,
+            "file_name": "KelpCam06_20220527T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2220_raw.png"
+        },
+        {
+            "id": 9053,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1070_raw.png"
+        },
+        {
+            "id": 14556,
+            "file_name": "KelpCam04_20220404T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1770_raw.png"
+        },
+        {
+            "id": 2711,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1111_raw.png"
+        },
+        {
+            "id": 30115,
+            "file_name": "KelpCam12_20220702T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3500_raw.png"
+        },
+        {
+            "id": 16043,
+            "file_name": "KelpCam08_20220723T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1250_raw.png"
+        },
+        {
+            "id": 23945,
+            "file_name": "KelpCam21_20220908T150156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3000_raw.png"
+        },
+        {
+            "id": 39371,
+            "file_name": "KelpCam01_20220811T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1110_raw.png"
+        },
+        {
+            "id": 29731,
+            "file_name": "KelpCam18_20220802T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0570_raw.png"
+        },
+        {
+            "id": 8266,
+            "file_name": "KelpCam04_20220725T190154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2945_raw.png"
+        },
+        {
+            "id": 28377,
+            "file_name": "KelpCam06_20220920T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0830_raw.png"
+        },
+        {
+            "id": 12870,
+            "file_name": "KelpCam06_20220916T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3410_raw.png"
+        },
+        {
+            "id": 30832,
+            "file_name": "KelpCam21_20220826T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2370_raw.png"
+        },
+        {
+            "id": 28587,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1990_raw.png"
+        },
+        {
+            "id": 3455,
+            "file_name": "KelpCam03_20220705T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3140_raw.png"
+        },
+        {
+            "id": 7301,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2940_raw.png"
+        },
+        {
+            "id": 18173,
+            "file_name": "KelpCam20_20220522T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_-004_raw.png"
+        },
+        {
+            "id": 23161,
+            "file_name": "KelpCam06_20220902T140154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1730_raw.png"
+        },
+        {
+            "id": 23220,
+            "file_name": "KelpCam18_20220803T210156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2820_raw.png"
+        },
+        {
+            "id": 30061,
+            "file_name": "KelpCam18_20220729T160157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2950_raw.png"
+        },
+        {
+            "id": 27029,
+            "file_name": "KelpCam18_20220727T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0890_raw.png"
+        },
+        {
+            "id": 26146,
+            "file_name": "KelpCam04_20220727T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0384_raw.png"
+        },
+        {
+            "id": 14992,
+            "file_name": "KelpCam19_20221103T090156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1840_raw.png"
+        },
+        {
+            "id": 17235,
+            "file_name": "KelpCam21_20220821T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3410_raw.png"
+        },
+        {
+            "id": 33362,
+            "file_name": "KelpCam20_20220509T150154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0000_raw.png"
+        },
+        {
+            "id": 37933,
+            "file_name": "KelpCam06_20220903T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2470_raw.png"
+        },
+        {
+            "id": 20507,
+            "file_name": "KelpCam06_20220824T200156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1090_raw.png"
+        },
+        {
+            "id": 3460,
+            "file_name": "KelpCam21_20220826T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2320_raw.png"
+        },
+        {
+            "id": 21349,
+            "file_name": "KelpCam06_20220518T070154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2580_raw.png"
+        },
+        {
+            "id": 25858,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2260_raw.png"
+        },
+        {
+            "id": 7805,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2330_raw.png"
+        },
+        {
+            "id": 10158,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1580_raw.png"
+        },
+        {
+            "id": 15409,
+            "file_name": "KelpCam05_20220309T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0600_raw.png"
+        },
+        {
+            "id": 26458,
+            "file_name": "KelpCam21_20220405T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3575_raw.png"
+        },
+        {
+            "id": 16146,
+            "file_name": "KelpCam21_20221030T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3550_raw.png"
+        },
+        {
+            "id": 13418,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0990_raw.png"
+        },
+        {
+            "id": 210,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1533_raw.png"
+        },
+        {
+            "id": 13003,
+            "file_name": "KelpCam01_20220811T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3540_raw.png"
+        },
+        {
+            "id": 29856,
+            "file_name": "KelpCam01_20220623T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1560_raw.png"
+        },
+        {
+            "id": 32241,
+            "file_name": "KelpCam08_20220726T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2340_raw.png"
+        },
+        {
+            "id": 23514,
+            "file_name": "KelpCam01_20220806T070157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3010_raw.png"
+        },
+        {
+            "id": 3064,
+            "file_name": "KelpCam12_20220702T170154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3540_raw.png"
+        },
+        {
+            "id": 19882,
+            "file_name": "KelpCam18_20220630T090155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2270_raw.png"
+        },
+        {
+            "id": 14392,
+            "file_name": "KelpCam06_20220905T070155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0800_raw.png"
+        },
+        {
+            "id": 12583,
+            "file_name": "KelpCam17_20220911T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1730_raw.png"
+        },
+        {
+            "id": 5866,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2380_raw.png"
+        },
+        {
+            "id": 12561,
+            "file_name": "KelpCam21_20220824T130154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3370_raw.png"
+        },
+        {
+            "id": 37896,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1890_raw.png"
+        },
+        {
+            "id": 34340,
+            "file_name": "KelpCam01_20220806T180155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0560_raw.png"
+        },
+        {
+            "id": 7528,
+            "file_name": "KelpCam05_20220323T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2350_raw.png"
+        },
+        {
+            "id": 18014,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1960_raw.png"
+        },
+        {
+            "id": 6025,
+            "file_name": "KelpCam08_20221002T170155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0030_raw.png"
+        },
+        {
+            "id": 34605,
+            "file_name": "KelpCam21_20220927T100155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1810_raw.png"
+        },
+        {
+            "id": 25478,
+            "file_name": "KelpCam04_20220727T200157_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1010_raw.png"
+        },
+        {
+            "id": 37867,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1880_raw.png"
+        },
+        {
+            "id": 1254,
+            "file_name": "KelpCam04_20220723T130156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2290_raw.png"
+        },
+        {
+            "id": 18446,
+            "file_name": "KelpCam08_20220927T110155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2030_raw.png"
+        },
+        {
+            "id": 15613,
+            "file_name": "KelpCam01_20220731T120155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1515_raw.png"
+        },
+        {
+            "id": 7085,
+            "file_name": "KelpCam18_20220804T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1250_raw.png"
+        },
+        {
+            "id": 11352,
+            "file_name": "KelpCam06_20220825T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1640_raw.png"
+        },
+        {
+            "id": 13961,
+            "file_name": "KelpCam22_20221004T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2740_raw.png"
+        },
+        {
+            "id": 5414,
+            "file_name": "KelpCam17_20220518T100156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3590_raw.png"
+        },
+        {
+            "id": 39419,
+            "file_name": "KelpCam18_20220729T080155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1740_raw.png"
+        },
+        {
+            "id": 8249,
+            "file_name": "KelpCam17_20221028T170155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0870_raw.png"
+        },
+        {
+            "id": 28539,
+            "file_name": "KelpCam04_20220725T060156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3630_raw.png"
+        },
+        {
+            "id": 9147,
+            "file_name": "KelpCam06_20220824T110154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1720_raw.png"
+        },
+        {
+            "id": 2212,
+            "file_name": "KelpCam06_20220820T190155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3390_raw.png"
+        },
+        {
+            "id": 11590,
+            "file_name": "KelpCam07_20220407T100154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1140_raw.png"
+        },
+        {
+            "id": 35836,
+            "file_name": "KelpCam04_20220402T080156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1830_raw.png"
+        },
+        {
+            "id": 19342,
+            "file_name": "KelpCam06_20220825T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2160_raw.png"
+        },
+        {
+            "id": 33405,
+            "file_name": "KelpCam03_20220704T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2410_raw.png"
+        },
+        {
+            "id": 39587,
+            "file_name": "KelpCam17_20221017T080154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2180_raw.png"
+        },
+        {
+            "id": 36857,
+            "file_name": "KelpCam18_20220711T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1470_raw.png"
+        },
+        {
+            "id": 27338,
+            "file_name": "KelpCam18_20220804T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0020_raw.png"
+        },
+        {
+            "id": 32583,
+            "file_name": "KelpCam06_20220512T180154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1970_raw.png"
+        },
+        {
+            "id": 33822,
+            "file_name": "KelpCam03_20220706T070156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0970_raw.png"
+        },
+        {
+            "id": 26886,
+            "file_name": "KelpCam08_20220726T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2330_raw.png"
+        },
+        {
+            "id": 5990,
+            "file_name": "KelpCam08_20220806T110156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_0580_raw.png"
+        },
+        {
+            "id": 19760,
+            "file_name": "KelpCam21_20220405T120156_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_3557_raw.png"
+        },
+        {
+            "id": 28246,
+            "file_name": "KelpCam06_20221005T140155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_2430_raw.png"
+        },
+        {
+            "id": 17862,
+            "file_name": "KelpCam18_20220724T160154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1930_raw.png"
+        },
+        {
+            "id": 27498,
+            "file_name": "KelpCam01_20220808T130155_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1790_raw.png"
+        },
+        {
+            "id": 29225,
+            "file_name": "KelpCam06_20220917T120154_1600x1200_awb-auto_exp-night_fr-10_q-20_sh-0_b-50_c-0_i-800_sat-0._FRAME_1010_raw.png"
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 23703,
+            "category_id": 0
+        },
+        {
+            "image_id": 16299,
+            "category_id": 1
+        },
+        {
+            "image_id": 34587,
+            "category_id": 0
+        },
+        {
+            "image_id": 12282,
+            "category_id": 1
+        },
+        {
+            "image_id": 17456,
+            "category_id": 0
+        },
+        {
+            "image_id": 12254,
+            "category_id": 1
+        },
+        {
+            "image_id": 13048,
+            "category_id": 1
+        },
+        {
+            "image_id": 324,
+            "category_id": 0
+        },
+        {
+            "image_id": 28234,
+            "category_id": 1
+        },
+        {
+            "image_id": 11467,
+            "category_id": 0
+        },
+        {
+            "image_id": 467,
+            "category_id": 0
+        },
+        {
+            "image_id": 33200,
+            "category_id": 0
+        },
+        {
+            "image_id": 14050,
+            "category_id": 0
+        },
+        {
+            "image_id": 29280,
+            "category_id": 1
+        },
+        {
+            "image_id": 1169,
+            "category_id": 0
+        },
+        {
+            "image_id": 15777,
+            "category_id": 1
+        },
+        {
+            "image_id": 16737,
+            "category_id": 0
+        },
+        {
+            "image_id": 375,
+            "category_id": 1
+        },
+        {
+            "image_id": 32412,
+            "category_id": 1
+        },
+        {
+            "image_id": 12529,
+            "category_id": 0
+        },
+        {
+            "image_id": 36499,
+            "category_id": 1
+        },
+        {
+            "image_id": 14332,
+            "category_id": 0
+        },
+        {
+            "image_id": 38247,
+            "category_id": 0
+        },
+        {
+            "image_id": 28930,
+            "category_id": 1
+        },
+        {
+            "image_id": 35535,
+            "category_id": 0
+        },
+        {
+            "image_id": 22201,
+            "category_id": 0
+        },
+        {
+            "image_id": 12057,
+            "category_id": 1
+        },
+        {
+            "image_id": 11094,
+            "category_id": 0
+        },
+        {
+            "image_id": 20838,
+            "category_id": 0
+        },
+        {
+            "image_id": 31747,
+            "category_id": 1
+        },
+        {
+            "image_id": 17573,
+            "category_id": 1
+        },
+        {
+            "image_id": 27973,
+            "category_id": 0
+        },
+        {
+            "image_id": 22587,
+            "category_id": 0
+        },
+        {
+            "image_id": 12168,
+            "category_id": 1
+        },
+        {
+            "image_id": 26662,
+            "category_id": 1
+        },
+        {
+            "image_id": 1180,
+            "category_id": 1
+        },
+        {
+            "image_id": 24640,
+            "category_id": 1
+        },
+        {
+            "image_id": 26052,
+            "category_id": 1
+        },
+        {
+            "image_id": 18552,
+            "category_id": 0
+        },
+        {
+            "image_id": 37160,
+            "category_id": 1
+        },
+        {
+            "image_id": 17545,
+            "category_id": 0
+        },
+        {
+            "image_id": 15412,
+            "category_id": 1
+        },
+        {
+            "image_id": 37578,
+            "category_id": 0
+        },
+        {
+            "image_id": 35394,
+            "category_id": 0
+        },
+        {
+            "image_id": 27076,
+            "category_id": 0
+        },
+        {
+            "image_id": 27450,
+            "category_id": 0
+        },
+        {
+            "image_id": 16405,
+            "category_id": 1
+        },
+        {
+            "image_id": 15531,
+            "category_id": 0
+        },
+        {
+            "image_id": 14099,
+            "category_id": 0
+        },
+        {
+            "image_id": 22807,
+            "category_id": 0
+        },
+        {
+            "image_id": 31081,
+            "category_id": 1
+        },
+        {
+            "image_id": 6551,
+            "category_id": 0
+        },
+        {
+            "image_id": 8263,
+            "category_id": 0
+        },
+        {
+            "image_id": 18039,
+            "category_id": 1
+        },
+        {
+            "image_id": 456,
+            "category_id": 1
+        },
+        {
+            "image_id": 20114,
+            "category_id": 1
+        },
+        {
+            "image_id": 10650,
+            "category_id": 1
+        },
+        {
+            "image_id": 26178,
+            "category_id": 1
+        },
+        {
+            "image_id": 27974,
+            "category_id": 1
+        },
+        {
+            "image_id": 36338,
+            "category_id": 1
+        },
+        {
+            "image_id": 26059,
+            "category_id": 0
+        },
+        {
+            "image_id": 30285,
+            "category_id": 0
+        },
+        {
+            "image_id": 23778,
+            "category_id": 0
+        },
+        {
+            "image_id": 6837,
+            "category_id": 1
+        },
+        {
+            "image_id": 6801,
+            "category_id": 1
+        },
+        {
+            "image_id": 29933,
+            "category_id": 0
+        },
+        {
+            "image_id": 40011,
+            "category_id": 1
+        },
+        {
+            "image_id": 32964,
+            "category_id": 0
+        },
+        {
+            "image_id": 8386,
+            "category_id": 1
+        },
+        {
+            "image_id": 7483,
+            "category_id": 1
+        },
+        {
+            "image_id": 15120,
+            "category_id": 1
+        },
+        {
+            "image_id": 33713,
+            "category_id": 0
+        },
+        {
+            "image_id": 18265,
+            "category_id": 0
+        },
+        {
+            "image_id": 33428,
+            "category_id": 0
+        },
+        {
+            "image_id": 33938,
+            "category_id": 0
+        },
+        {
+            "image_id": 1664,
+            "category_id": 0
+        },
+        {
+            "image_id": 31630,
+            "category_id": 0
+        },
+        {
+            "image_id": 35740,
+            "category_id": 0
+        },
+        {
+            "image_id": 4122,
+            "category_id": 1
+        },
+        {
+            "image_id": 33174,
+            "category_id": 1
+        },
+        {
+            "image_id": 8436,
+            "category_id": 1
+        },
+        {
+            "image_id": 14338,
+            "category_id": 0
+        },
+        {
+            "image_id": 30779,
+            "category_id": 0
+        },
+        {
+            "image_id": 37052,
+            "category_id": 0
+        },
+        {
+            "image_id": 7092,
+            "category_id": 0
+        },
+        {
+            "image_id": 20542,
+            "category_id": 0
+        },
+        {
+            "image_id": 6042,
+            "category_id": 0
+        },
+        {
+            "image_id": 1097,
+            "category_id": 1
+        },
+        {
+            "image_id": 7630,
+            "category_id": 0
+        },
+        {
+            "image_id": 2272,
+            "category_id": 0
+        },
+        {
+            "image_id": 8455,
+            "category_id": 0
+        },
+        {
+            "image_id": 29207,
+            "category_id": 0
+        },
+        {
+            "image_id": 5042,
+            "category_id": 1
+        },
+        {
+            "image_id": 30665,
+            "category_id": 0
+        },
+        {
+            "image_id": 33600,
+            "category_id": 0
+        },
+        {
+            "image_id": 20903,
+            "category_id": 1
+        },
+        {
+            "image_id": 18842,
+            "category_id": 0
+        },
+        {
+            "image_id": 7257,
+            "category_id": 1
+        },
+        {
+            "image_id": 18943,
+            "category_id": 0
+        },
+        {
+            "image_id": 9398,
+            "category_id": 0
+        },
+        {
+            "image_id": 6034,
+            "category_id": 1
+        },
+        {
+            "image_id": 14961,
+            "category_id": 1
+        },
+        {
+            "image_id": 14194,
+            "category_id": 0
+        },
+        {
+            "image_id": 14043,
+            "category_id": 1
+        },
+        {
+            "image_id": 13383,
+            "category_id": 0
+        },
+        {
+            "image_id": 881,
+            "category_id": 1
+        },
+        {
+            "image_id": 10095,
+            "category_id": 1
+        },
+        {
+            "image_id": 32215,
+            "category_id": 1
+        },
+        {
+            "image_id": 34366,
+            "category_id": 0
+        },
+        {
+            "image_id": 35043,
+            "category_id": 0
+        },
+        {
+            "image_id": 5917,
+            "category_id": 1
+        },
+        {
+            "image_id": 33953,
+            "category_id": 0
+        },
+        {
+            "image_id": 8625,
+            "category_id": 1
+        },
+        {
+            "image_id": 36337,
+            "category_id": 0
+        },
+        {
+            "image_id": 6301,
+            "category_id": 0
+        },
+        {
+            "image_id": 25825,
+            "category_id": 1
+        },
+        {
+            "image_id": 10649,
+            "category_id": 0
+        },
+        {
+            "image_id": 8483,
+            "category_id": 0
+        },
+        {
+            "image_id": 23880,
+            "category_id": 0
+        },
+        {
+            "image_id": 13406,
+            "category_id": 0
+        },
+        {
+            "image_id": 35897,
+            "category_id": 1
+        },
+        {
+            "image_id": 35066,
+            "category_id": 0
+        },
+        {
+            "image_id": 38724,
+            "category_id": 1
+        },
+        {
+            "image_id": 9559,
+            "category_id": 0
+        },
+        {
+            "image_id": 34170,
+            "category_id": 0
+        },
+        {
+            "image_id": 17084,
+            "category_id": 1
+        },
+        {
+            "image_id": 12623,
+            "category_id": 1
+        },
+        {
+            "image_id": 39914,
+            "category_id": 1
+        },
+        {
+            "image_id": 11412,
+            "category_id": 0
+        },
+        {
+            "image_id": 4355,
+            "category_id": 1
+        },
+        {
+            "image_id": 31675,
+            "category_id": 1
+        },
+        {
+            "image_id": 11403,
+            "category_id": 0
+        },
+        {
+            "image_id": 15479,
+            "category_id": 1
+        },
+        {
+            "image_id": 23754,
+            "category_id": 0
+        },
+        {
+            "image_id": 12754,
+            "category_id": 1
+        },
+        {
+            "image_id": 13966,
+            "category_id": 0
+        },
+        {
+            "image_id": 6684,
+            "category_id": 0
+        },
+        {
+            "image_id": 36476,
+            "category_id": 0
+        },
+        {
+            "image_id": 18938,
+            "category_id": 0
+        },
+        {
+            "image_id": 13055,
+            "category_id": 1
+        },
+        {
+            "image_id": 21282,
+            "category_id": 0
+        },
+        {
+            "image_id": 25064,
+            "category_id": 0
+        },
+        {
+            "image_id": 19396,
+            "category_id": 0
+        },
+        {
+            "image_id": 21335,
+            "category_id": 1
+        },
+        {
+            "image_id": 23001,
+            "category_id": 1
+        },
+        {
+            "image_id": 972,
+            "category_id": 0
+        },
+        {
+            "image_id": 3656,
+            "category_id": 0
+        },
+        {
+            "image_id": 10040,
+            "category_id": 1
+        },
+        {
+            "image_id": 26105,
+            "category_id": 1
+        },
+        {
+            "image_id": 13634,
+            "category_id": 0
+        },
+        {
+            "image_id": 1159,
+            "category_id": 0
+        },
+        {
+            "image_id": 24998,
+            "category_id": 0
+        },
+        {
+            "image_id": 23240,
+            "category_id": 0
+        },
+        {
+            "image_id": 3162,
+            "category_id": 1
+        },
+        {
+            "image_id": 34546,
+            "category_id": 1
+        },
+        {
+            "image_id": 25683,
+            "category_id": 0
+        },
+        {
+            "image_id": 3229,
+            "category_id": 0
+        },
+        {
+            "image_id": 10026,
+            "category_id": 0
+        },
+        {
+            "image_id": 34795,
+            "category_id": 0
+        },
+        {
+            "image_id": 20716,
+            "category_id": 1
+        },
+        {
+            "image_id": 16981,
+            "category_id": 1
+        },
+        {
+            "image_id": 1465,
+            "category_id": 0
+        },
+        {
+            "image_id": 38064,
+            "category_id": 1
+        },
+        {
+            "image_id": 12626,
+            "category_id": 1
+        },
+        {
+            "image_id": 32500,
+            "category_id": 0
+        },
+        {
+            "image_id": 28082,
+            "category_id": 1
+        },
+        {
+            "image_id": 30968,
+            "category_id": 0
+        },
+        {
+            "image_id": 9088,
+            "category_id": 1
+        },
+        {
+            "image_id": 794,
+            "category_id": 0
+        },
+        {
+            "image_id": 15439,
+            "category_id": 1
+        },
+        {
+            "image_id": 35591,
+            "category_id": 0
+        },
+        {
+            "image_id": 18279,
+            "category_id": 1
+        },
+        {
+            "image_id": 29690,
+            "category_id": 0
+        },
+        {
+            "image_id": 16306,
+            "category_id": 0
+        },
+        {
+            "image_id": 21111,
+            "category_id": 0
+        },
+        {
+            "image_id": 15968,
+            "category_id": 1
+        },
+        {
+            "image_id": 7237,
+            "category_id": 1
+        },
+        {
+            "image_id": 7849,
+            "category_id": 1
+        },
+        {
+            "image_id": 15521,
+            "category_id": 0
+        },
+        {
+            "image_id": 19708,
+            "category_id": 0
+        },
+        {
+            "image_id": 4507,
+            "category_id": 1
+        },
+        {
+            "image_id": 16562,
+            "category_id": 0
+        },
+        {
+            "image_id": 24521,
+            "category_id": 0
+        },
+        {
+            "image_id": 1574,
+            "category_id": 1
+        },
+        {
+            "image_id": 9659,
+            "category_id": 1
+        },
+        {
+            "image_id": 15212,
+            "category_id": 0
+        },
+        {
+            "image_id": 39752,
+            "category_id": 0
+        },
+        {
+            "image_id": 3901,
+            "category_id": 1
+        },
+        {
+            "image_id": 21546,
+            "category_id": 0
+        },
+        {
+            "image_id": 168,
+            "category_id": 1
+        },
+        {
+            "image_id": 14413,
+            "category_id": 1
+        },
+        {
+            "image_id": 29056,
+            "category_id": 0
+        },
+        {
+            "image_id": 11440,
+            "category_id": 1
+        },
+        {
+            "image_id": 3400,
+            "category_id": 1
+        },
+        {
+            "image_id": 2734,
+            "category_id": 1
+        },
+        {
+            "image_id": 22646,
+            "category_id": 1
+        },
+        {
+            "image_id": 33291,
+            "category_id": 1
+        },
+        {
+            "image_id": 33513,
+            "category_id": 1
+        },
+        {
+            "image_id": 37144,
+            "category_id": 0
+        },
+        {
+            "image_id": 39330,
+            "category_id": 1
+        },
+        {
+            "image_id": 34021,
+            "category_id": 1
+        },
+        {
+            "image_id": 38024,
+            "category_id": 1
+        },
+        {
+            "image_id": 35926,
+            "category_id": 1
+        },
+        {
+            "image_id": 32078,
+            "category_id": 0
+        },
+        {
+            "image_id": 12305,
+            "category_id": 0
+        },
+        {
+            "image_id": 39903,
+            "category_id": 0
+        },
+        {
+            "image_id": 21421,
+            "category_id": 1
+        },
+        {
+            "image_id": 33425,
+            "category_id": 1
+        },
+        {
+            "image_id": 27115,
+            "category_id": 1
+        },
+        {
+            "image_id": 8594,
+            "category_id": 0
+        },
+        {
+            "image_id": 23835,
+            "category_id": 1
+        },
+        {
+            "image_id": 15503,
+            "category_id": 1
+        },
+        {
+            "image_id": 16085,
+            "category_id": 0
+        },
+        {
+            "image_id": 5631,
+            "category_id": 0
+        },
+        {
+            "image_id": 27269,
+            "category_id": 0
+        },
+        {
+            "image_id": 33305,
+            "category_id": 1
+        },
+        {
+            "image_id": 29981,
+            "category_id": 1
+        },
+        {
+            "image_id": 4510,
+            "category_id": 1
+        },
+        {
+            "image_id": 36447,
+            "category_id": 1
+        },
+        {
+            "image_id": 6005,
+            "category_id": 0
+        },
+        {
+            "image_id": 34240,
+            "category_id": 1
+        },
+        {
+            "image_id": 5816,
+            "category_id": 0
+        },
+        {
+            "image_id": 16618,
+            "category_id": 0
+        },
+        {
+            "image_id": 12426,
+            "category_id": 0
+        },
+        {
+            "image_id": 30503,
+            "category_id": 0
+        },
+        {
+            "image_id": 4203,
+            "category_id": 1
+        },
+        {
+            "image_id": 11434,
+            "category_id": 0
+        },
+        {
+            "image_id": 988,
+            "category_id": 1
+        },
+        {
+            "image_id": 6627,
+            "category_id": 1
+        },
+        {
+            "image_id": 28880,
+            "category_id": 0
+        },
+        {
+            "image_id": 36567,
+            "category_id": 1
+        },
+        {
+            "image_id": 7035,
+            "category_id": 1
+        },
+        {
+            "image_id": 39749,
+            "category_id": 0
+        },
+        {
+            "image_id": 12266,
+            "category_id": 0
+        },
+        {
+            "image_id": 5026,
+            "category_id": 0
+        },
+        {
+            "image_id": 1601,
+            "category_id": 1
+        },
+        {
+            "image_id": 28633,
+            "category_id": 0
+        },
+        {
+            "image_id": 10879,
+            "category_id": 0
+        },
+        {
+            "image_id": 19202,
+            "category_id": 0
+        },
+        {
+            "image_id": 32230,
+            "category_id": 1
+        },
+        {
+            "image_id": 14592,
+            "category_id": 1
+        },
+        {
+            "image_id": 5224,
+            "category_id": 1
+        },
+        {
+            "image_id": 19892,
+            "category_id": 0
+        },
+        {
+            "image_id": 7711,
+            "category_id": 0
+        },
+        {
+            "image_id": 33509,
+            "category_id": 0
+        },
+        {
+            "image_id": 3328,
+            "category_id": 0
+        },
+        {
+            "image_id": 36274,
+            "category_id": 1
+        },
+        {
+            "image_id": 30010,
+            "category_id": 0
+        },
+        {
+            "image_id": 9935,
+            "category_id": 0
+        },
+        {
+            "image_id": 15265,
+            "category_id": 1
+        },
+        {
+            "image_id": 37973,
+            "category_id": 1
+        },
+        {
+            "image_id": 16221,
+            "category_id": 0
+        },
+        {
+            "image_id": 37776,
+            "category_id": 0
+        },
+        {
+            "image_id": 17890,
+            "category_id": 0
+        },
+        {
+            "image_id": 14595,
+            "category_id": 0
+        },
+        {
+            "image_id": 34028,
+            "category_id": 0
+        },
+        {
+            "image_id": 18416,
+            "category_id": 0
+        },
+        {
+            "image_id": 26968,
+            "category_id": 0
+        },
+        {
+            "image_id": 33632,
+            "category_id": 0
+        },
+        {
+            "image_id": 4172,
+            "category_id": 0
+        },
+        {
+            "image_id": 19211,
+            "category_id": 0
+        },
+        {
+            "image_id": 34447,
+            "category_id": 0
+        },
+        {
+            "image_id": 25014,
+            "category_id": 0
+        },
+        {
+            "image_id": 22308,
+            "category_id": 0
+        },
+        {
+            "image_id": 17771,
+            "category_id": 1
+        },
+        {
+            "image_id": 8940,
+            "category_id": 0
+        },
+        {
+            "image_id": 10363,
+            "category_id": 0
+        },
+        {
+            "image_id": 15693,
+            "category_id": 0
+        },
+        {
+            "image_id": 235,
+            "category_id": 1
+        },
+        {
+            "image_id": 4637,
+            "category_id": 1
+        },
+        {
+            "image_id": 16387,
+            "category_id": 1
+        },
+        {
+            "image_id": 39312,
+            "category_id": 0
+        },
+        {
+            "image_id": 2118,
+            "category_id": 0
+        },
+        {
+            "image_id": 16569,
+            "category_id": 1
+        },
+        {
+            "image_id": 32159,
+            "category_id": 0
+        },
+        {
+            "image_id": 1279,
+            "category_id": 1
+        },
+        {
+            "image_id": 20889,
+            "category_id": 1
+        },
+        {
+            "image_id": 3452,
+            "category_id": 0
+        },
+        {
+            "image_id": 29850,
+            "category_id": 1
+        },
+        {
+            "image_id": 18060,
+            "category_id": 0
+        },
+        {
+            "image_id": 28142,
+            "category_id": 1
+        },
+        {
+            "image_id": 33527,
+            "category_id": 0
+        },
+        {
+            "image_id": 37880,
+            "category_id": 1
+        },
+        {
+            "image_id": 15381,
+            "category_id": 1
+        },
+        {
+            "image_id": 15916,
+            "category_id": 1
+        },
+        {
+            "image_id": 36261,
+            "category_id": 0
+        },
+        {
+            "image_id": 36755,
+            "category_id": 0
+        },
+        {
+            "image_id": 39459,
+            "category_id": 0
+        },
+        {
+            "image_id": 8414,
+            "category_id": 1
+        },
+        {
+            "image_id": 32034,
+            "category_id": 1
+        },
+        {
+            "image_id": 29688,
+            "category_id": 0
+        },
+        {
+            "image_id": 1627,
+            "category_id": 1
+        },
+        {
+            "image_id": 13263,
+            "category_id": 0
+        },
+        {
+            "image_id": 15169,
+            "category_id": 0
+        },
+        {
+            "image_id": 561,
+            "category_id": 1
+        },
+        {
+            "image_id": 9163,
+            "category_id": 1
+        },
+        {
+            "image_id": 5426,
+            "category_id": 0
+        },
+        {
+            "image_id": 24609,
+            "category_id": 1
+        },
+        {
+            "image_id": 35020,
+            "category_id": 0
+        },
+        {
+            "image_id": 13685,
+            "category_id": 1
+        },
+        {
+            "image_id": 33102,
+            "category_id": 1
+        },
+        {
+            "image_id": 37158,
+            "category_id": 1
+        },
+        {
+            "image_id": 13729,
+            "category_id": 1
+        },
+        {
+            "image_id": 2594,
+            "category_id": 1
+        },
+        {
+            "image_id": 31092,
+            "category_id": 0
+        },
+        {
+            "image_id": 39521,
+            "category_id": 0
+        },
+        {
+            "image_id": 29441,
+            "category_id": 1
+        },
+        {
+            "image_id": 9630,
+            "category_id": 0
+        },
+        {
+            "image_id": 20943,
+            "category_id": 1
+        },
+        {
+            "image_id": 40039,
+            "category_id": 1
+        },
+        {
+            "image_id": 17366,
+            "category_id": 1
+        },
+        {
+            "image_id": 3998,
+            "category_id": 1
+        },
+        {
+            "image_id": 8865,
+            "category_id": 0
+        },
+        {
+            "image_id": 31896,
+            "category_id": 0
+        },
+        {
+            "image_id": 19029,
+            "category_id": 1
+        },
+        {
+            "image_id": 30570,
+            "category_id": 0
+        },
+        {
+            "image_id": 30114,
+            "category_id": 0
+        },
+        {
+            "image_id": 10702,
+            "category_id": 0
+        },
+        {
+            "image_id": 26012,
+            "category_id": 1
+        },
+        {
+            "image_id": 36931,
+            "category_id": 0
+        },
+        {
+            "image_id": 34211,
+            "category_id": 0
+        },
+        {
+            "image_id": 17174,
+            "category_id": 0
+        },
+        {
+            "image_id": 30706,
+            "category_id": 0
+        },
+        {
+            "image_id": 33649,
+            "category_id": 0
+        },
+        {
+            "image_id": 38331,
+            "category_id": 0
+        },
+        {
+            "image_id": 30566,
+            "category_id": 1
+        },
+        {
+            "image_id": 16121,
+            "category_id": 0
+        },
+        {
+            "image_id": 32371,
+            "category_id": 0
+        },
+        {
+            "image_id": 39099,
+            "category_id": 1
+        },
+        {
+            "image_id": 30293,
+            "category_id": 1
+        },
+        {
+            "image_id": 9905,
+            "category_id": 0
+        },
+        {
+            "image_id": 3664,
+            "category_id": 0
+        },
+        {
+            "image_id": 26666,
+            "category_id": 0
+        },
+        {
+            "image_id": 35288,
+            "category_id": 1
+        },
+        {
+            "image_id": 21194,
+            "category_id": 1
+        },
+        {
+            "image_id": 31961,
+            "category_id": 1
+        },
+        {
+            "image_id": 8631,
+            "category_id": 1
+        },
+        {
+            "image_id": 39272,
+            "category_id": 0
+        },
+        {
+            "image_id": 36998,
+            "category_id": 0
+        },
+        {
+            "image_id": 13913,
+            "category_id": 1
+        },
+        {
+            "image_id": 1543,
+            "category_id": 1
+        },
+        {
+            "image_id": 3858,
+            "category_id": 1
+        },
+        {
+            "image_id": 33122,
+            "category_id": 0
+        },
+        {
+            "image_id": 32017,
+            "category_id": 0
+        },
+        {
+            "image_id": 6158,
+            "category_id": 0
+        },
+        {
+            "image_id": 15283,
+            "category_id": 1
+        },
+        {
+            "image_id": 24603,
+            "category_id": 0
+        },
+        {
+            "image_id": 13555,
+            "category_id": 1
+        },
+        {
+            "image_id": 30091,
+            "category_id": 1
+        },
+        {
+            "image_id": 36757,
+            "category_id": 1
+        },
+        {
+            "image_id": 21576,
+            "category_id": 0
+        },
+        {
+            "image_id": 34816,
+            "category_id": 0
+        },
+        {
+            "image_id": 4551,
+            "category_id": 1
+        },
+        {
+            "image_id": 15812,
+            "category_id": 0
+        },
+        {
+            "image_id": 19834,
+            "category_id": 1
+        },
+        {
+            "image_id": 35978,
+            "category_id": 1
+        },
+        {
+            "image_id": 8871,
+            "category_id": 1
+        },
+        {
+            "image_id": 23578,
+            "category_id": 0
+        },
+        {
+            "image_id": 3869,
+            "category_id": 1
+        },
+        {
+            "image_id": 11002,
+            "category_id": 1
+        },
+        {
+            "image_id": 7726,
+            "category_id": 0
+        },
+        {
+            "image_id": 10426,
+            "category_id": 1
+        },
+        {
+            "image_id": 18476,
+            "category_id": 1
+        },
+        {
+            "image_id": 15909,
+            "category_id": 1
+        },
+        {
+            "image_id": 11847,
+            "category_id": 1
+        },
+        {
+            "image_id": 17426,
+            "category_id": 0
+        },
+        {
+            "image_id": 12506,
+            "category_id": 1
+        },
+        {
+            "image_id": 32220,
+            "category_id": 0
+        },
+        {
+            "image_id": 7984,
+            "category_id": 1
+        },
+        {
+            "image_id": 26914,
+            "category_id": 1
+        },
+        {
+            "image_id": 39329,
+            "category_id": 0
+        },
+        {
+            "image_id": 27399,
+            "category_id": 1
+        },
+        {
+            "image_id": 34935,
+            "category_id": 0
+        },
+        {
+            "image_id": 7388,
+            "category_id": 0
+        },
+        {
+            "image_id": 9705,
+            "category_id": 0
+        },
+        {
+            "image_id": 24308,
+            "category_id": 0
+        },
+        {
+            "image_id": 21524,
+            "category_id": 0
+        },
+        {
+            "image_id": 15165,
+            "category_id": 1
+        },
+        {
+            "image_id": 38690,
+            "category_id": 1
+        },
+        {
+            "image_id": 26185,
+            "category_id": 1
+        },
+        {
+            "image_id": 3113,
+            "category_id": 1
+        },
+        {
+            "image_id": 15843,
+            "category_id": 0
+        },
+        {
+            "image_id": 33374,
+            "category_id": 1
+        },
+        {
+            "image_id": 3482,
+            "category_id": 0
+        },
+        {
+            "image_id": 26520,
+            "category_id": 1
+        },
+        {
+            "image_id": 29594,
+            "category_id": 0
+        },
+        {
+            "image_id": 11140,
+            "category_id": 0
+        },
+        {
+            "image_id": 17493,
+            "category_id": 0
+        },
+        {
+            "image_id": 25253,
+            "category_id": 1
+        },
+        {
+            "image_id": 5080,
+            "category_id": 1
+        },
+        {
+            "image_id": 6563,
+            "category_id": 1
+        },
+        {
+            "image_id": 9490,
+            "category_id": 1
+        },
+        {
+            "image_id": 8473,
+            "category_id": 1
+        },
+        {
+            "image_id": 19998,
+            "category_id": 0
+        },
+        {
+            "image_id": 39644,
+            "category_id": 0
+        },
+        {
+            "image_id": 3490,
+            "category_id": 0
+        },
+        {
+            "image_id": 15006,
+            "category_id": 0
+        },
+        {
+            "image_id": 30510,
+            "category_id": 1
+        },
+        {
+            "image_id": 18942,
+            "category_id": 1
+        },
+        {
+            "image_id": 13483,
+            "category_id": 1
+        },
+        {
+            "image_id": 346,
+            "category_id": 1
+        },
+        {
+            "image_id": 36699,
+            "category_id": 1
+        },
+        {
+            "image_id": 30043,
+            "category_id": 0
+        },
+        {
+            "image_id": 3605,
+            "category_id": 1
+        },
+        {
+            "image_id": 25005,
+            "category_id": 0
+        },
+        {
+            "image_id": 3116,
+            "category_id": 0
+        },
+        {
+            "image_id": 36091,
+            "category_id": 0
+        },
+        {
+            "image_id": 20984,
+            "category_id": 1
+        },
+        {
+            "image_id": 24717,
+            "category_id": 1
+        },
+        {
+            "image_id": 31040,
+            "category_id": 1
+        },
+        {
+            "image_id": 9347,
+            "category_id": 0
+        },
+        {
+            "image_id": 26368,
+            "category_id": 0
+        },
+        {
+            "image_id": 18120,
+            "category_id": 1
+        },
+        {
+            "image_id": 29920,
+            "category_id": 1
+        },
+        {
+            "image_id": 13132,
+            "category_id": 1
+        },
+        {
+            "image_id": 15089,
+            "category_id": 0
+        },
+        {
+            "image_id": 1205,
+            "category_id": 0
+        },
+        {
+            "image_id": 17514,
+            "category_id": 0
+        },
+        {
+            "image_id": 32943,
+            "category_id": 1
+        },
+        {
+            "image_id": 26835,
+            "category_id": 1
+        },
+        {
+            "image_id": 26791,
+            "category_id": 1
+        },
+        {
+            "image_id": 17051,
+            "category_id": 1
+        },
+        {
+            "image_id": 17521,
+            "category_id": 0
+        },
+        {
+            "image_id": 22842,
+            "category_id": 1
+        },
+        {
+            "image_id": 17770,
+            "category_id": 0
+        },
+        {
+            "image_id": 5529,
+            "category_id": 0
+        },
+        {
+            "image_id": 19927,
+            "category_id": 1
+        },
+        {
+            "image_id": 26157,
+            "category_id": 1
+        },
+        {
+            "image_id": 15897,
+            "category_id": 0
+        },
+        {
+            "image_id": 38067,
+            "category_id": 0
+        },
+        {
+            "image_id": 40048,
+            "category_id": 1
+        },
+        {
+            "image_id": 6943,
+            "category_id": 0
+        },
+        {
+            "image_id": 36786,
+            "category_id": 1
+        },
+        {
+            "image_id": 21673,
+            "category_id": 0
+        },
+        {
+            "image_id": 20536,
+            "category_id": 0
+        },
+        {
+            "image_id": 22501,
+            "category_id": 1
+        },
+        {
+            "image_id": 24326,
+            "category_id": 1
+        },
+        {
+            "image_id": 19772,
+            "category_id": 1
+        },
+        {
+            "image_id": 29716,
+            "category_id": 1
+        },
+        {
+            "image_id": 28916,
+            "category_id": 1
+        },
+        {
+            "image_id": 2541,
+            "category_id": 1
+        },
+        {
+            "image_id": 30287,
+            "category_id": 0
+        },
+        {
+            "image_id": 35311,
+            "category_id": 1
+        },
+        {
+            "image_id": 18580,
+            "category_id": 1
+        },
+        {
+            "image_id": 7706,
+            "category_id": 0
+        },
+        {
+            "image_id": 37359,
+            "category_id": 1
+        },
+        {
+            "image_id": 21895,
+            "category_id": 1
+        },
+        {
+            "image_id": 27091,
+            "category_id": 0
+        },
+        {
+            "image_id": 9441,
+            "category_id": 1
+        },
+        {
+            "image_id": 36560,
+            "category_id": 0
+        },
+        {
+            "image_id": 30479,
+            "category_id": 1
+        },
+        {
+            "image_id": 19977,
+            "category_id": 1
+        },
+        {
+            "image_id": 29329,
+            "category_id": 0
+        },
+        {
+            "image_id": 34410,
+            "category_id": 0
+        },
+        {
+            "image_id": 22747,
+            "category_id": 0
+        },
+        {
+            "image_id": 31545,
+            "category_id": 1
+        },
+        {
+            "image_id": 20906,
+            "category_id": 1
+        },
+        {
+            "image_id": 33024,
+            "category_id": 0
+        },
+        {
+            "image_id": 33543,
+            "category_id": 1
+        },
+        {
+            "image_id": 1939,
+            "category_id": 1
+        },
+        {
+            "image_id": 15686,
+            "category_id": 1
+        },
+        {
+            "image_id": 35594,
+            "category_id": 1
+        },
+        {
+            "image_id": 2808,
+            "category_id": 1
+        },
+        {
+            "image_id": 27153,
+            "category_id": 0
+        },
+        {
+            "image_id": 12246,
+            "category_id": 0
+        },
+        {
+            "image_id": 30214,
+            "category_id": 0
+        },
+        {
+            "image_id": 22796,
+            "category_id": 1
+        },
+        {
+            "image_id": 36069,
+            "category_id": 0
+        },
+        {
+            "image_id": 34097,
+            "category_id": 1
+        },
+        {
+            "image_id": 3260,
+            "category_id": 0
+        },
+        {
+            "image_id": 9552,
+            "category_id": 1
+        },
+        {
+            "image_id": 35911,
+            "category_id": 1
+        },
+        {
+            "image_id": 20896,
+            "category_id": 0
+        },
+        {
+            "image_id": 30599,
+            "category_id": 1
+        },
+        {
+            "image_id": 10107,
+            "category_id": 0
+        },
+        {
+            "image_id": 3246,
+            "category_id": 0
+        },
+        {
+            "image_id": 30387,
+            "category_id": 0
+        },
+        {
+            "image_id": 937,
+            "category_id": 1
+        },
+        {
+            "image_id": 26540,
+            "category_id": 0
+        },
+        {
+            "image_id": 25484,
+            "category_id": 0
+        },
+        {
+            "image_id": 3369,
+            "category_id": 0
+        },
+        {
+            "image_id": 18495,
+            "category_id": 0
+        },
+        {
+            "image_id": 28610,
+            "category_id": 0
+        },
+        {
+            "image_id": 20270,
+            "category_id": 1
+        },
+        {
+            "image_id": 10448,
+            "category_id": 1
+        },
+        {
+            "image_id": 39713,
+            "category_id": 0
+        },
+        {
+            "image_id": 35748,
+            "category_id": 0
+        },
+        {
+            "image_id": 15239,
+            "category_id": 1
+        },
+        {
+            "image_id": 6902,
+            "category_id": 1
+        },
+        {
+            "image_id": 2611,
+            "category_id": 1
+        },
+        {
+            "image_id": 32821,
+            "category_id": 1
+        },
+        {
+            "image_id": 22194,
+            "category_id": 0
+        },
+        {
+            "image_id": 8504,
+            "category_id": 1
+        },
+        {
+            "image_id": 26319,
+            "category_id": 0
+        },
+        {
+            "image_id": 19588,
+            "category_id": 0
+        },
+        {
+            "image_id": 10802,
+            "category_id": 1
+        },
+        {
+            "image_id": 15823,
+            "category_id": 1
+        },
+        {
+            "image_id": 33454,
+            "category_id": 0
+        },
+        {
+            "image_id": 23688,
+            "category_id": 0
+        },
+        {
+            "image_id": 13280,
+            "category_id": 0
+        },
+        {
+            "image_id": 4590,
+            "category_id": 1
+        },
+        {
+            "image_id": 36654,
+            "category_id": 1
+        },
+        {
+            "image_id": 32237,
+            "category_id": 1
+        },
+        {
+            "image_id": 24979,
+            "category_id": 1
+        },
+        {
+            "image_id": 7908,
+            "category_id": 1
+        },
+        {
+            "image_id": 14459,
+            "category_id": 1
+        },
+        {
+            "image_id": 37763,
+            "category_id": 0
+        },
+        {
+            "image_id": 3152,
+            "category_id": 0
+        },
+        {
+            "image_id": 30054,
+            "category_id": 0
+        },
+        {
+            "image_id": 22484,
+            "category_id": 0
+        },
+        {
+            "image_id": 26724,
+            "category_id": 0
+        },
+        {
+            "image_id": 34930,
+            "category_id": 0
+        },
+        {
+            "image_id": 29869,
+            "category_id": 1
+        },
+        {
+            "image_id": 26995,
+            "category_id": 1
+        },
+        {
+            "image_id": 19954,
+            "category_id": 1
+        },
+        {
+            "image_id": 5204,
+            "category_id": 1
+        },
+        {
+            "image_id": 16606,
+            "category_id": 0
+        },
+        {
+            "image_id": 25855,
+            "category_id": 0
+        },
+        {
+            "image_id": 23281,
+            "category_id": 0
+        },
+        {
+            "image_id": 7414,
+            "category_id": 1
+        },
+        {
+            "image_id": 28529,
+            "category_id": 1
+        },
+        {
+            "image_id": 34474,
+            "category_id": 0
+        },
+        {
+            "image_id": 39548,
+            "category_id": 0
+        },
+        {
+            "image_id": 35087,
+            "category_id": 0
+        },
+        {
+            "image_id": 3280,
+            "category_id": 0
+        },
+        {
+            "image_id": 31672,
+            "category_id": 1
+        },
+        {
+            "image_id": 14740,
+            "category_id": 0
+        },
+        {
+            "image_id": 21032,
+            "category_id": 1
+        },
+        {
+            "image_id": 34709,
+            "category_id": 1
+        },
+        {
+            "image_id": 39476,
+            "category_id": 1
+        },
+        {
+            "image_id": 39690,
+            "category_id": 0
+        },
+        {
+            "image_id": 996,
+            "category_id": 0
+        },
+        {
+            "image_id": 1583,
+            "category_id": 0
+        },
+        {
+            "image_id": 3074,
+            "category_id": 1
+        },
+        {
+            "image_id": 14928,
+            "category_id": 0
+        },
+        {
+            "image_id": 400,
+            "category_id": 1
+        },
+        {
+            "image_id": 26933,
+            "category_id": 0
+        },
+        {
+            "image_id": 18048,
+            "category_id": 0
+        },
+        {
+            "image_id": 2489,
+            "category_id": 0
+        },
+        {
+            "image_id": 23605,
+            "category_id": 0
+        },
+        {
+            "image_id": 7173,
+            "category_id": 1
+        },
+        {
+            "image_id": 27385,
+            "category_id": 1
+        },
+        {
+            "image_id": 9053,
+            "category_id": 1
+        },
+        {
+            "image_id": 14556,
+            "category_id": 1
+        },
+        {
+            "image_id": 2711,
+            "category_id": 1
+        },
+        {
+            "image_id": 30115,
+            "category_id": 1
+        },
+        {
+            "image_id": 16043,
+            "category_id": 1
+        },
+        {
+            "image_id": 23945,
+            "category_id": 0
+        },
+        {
+            "image_id": 39371,
+            "category_id": 1
+        },
+        {
+            "image_id": 29731,
+            "category_id": 1
+        },
+        {
+            "image_id": 8266,
+            "category_id": 1
+        },
+        {
+            "image_id": 28377,
+            "category_id": 0
+        },
+        {
+            "image_id": 12870,
+            "category_id": 1
+        },
+        {
+            "image_id": 30832,
+            "category_id": 0
+        },
+        {
+            "image_id": 28587,
+            "category_id": 1
+        },
+        {
+            "image_id": 3455,
+            "category_id": 1
+        },
+        {
+            "image_id": 7301,
+            "category_id": 1
+        },
+        {
+            "image_id": 18173,
+            "category_id": 1
+        },
+        {
+            "image_id": 23161,
+            "category_id": 0
+        },
+        {
+            "image_id": 23220,
+            "category_id": 1
+        },
+        {
+            "image_id": 30061,
+            "category_id": 1
+        },
+        {
+            "image_id": 27029,
+            "category_id": 1
+        },
+        {
+            "image_id": 26146,
+            "category_id": 0
+        },
+        {
+            "image_id": 14992,
+            "category_id": 0
+        },
+        {
+            "image_id": 17235,
+            "category_id": 0
+        },
+        {
+            "image_id": 33362,
+            "category_id": 0
+        },
+        {
+            "image_id": 37933,
+            "category_id": 1
+        },
+        {
+            "image_id": 20507,
+            "category_id": 0
+        },
+        {
+            "image_id": 3460,
+            "category_id": 0
+        },
+        {
+            "image_id": 21349,
+            "category_id": 0
+        },
+        {
+            "image_id": 25858,
+            "category_id": 1
+        },
+        {
+            "image_id": 7805,
+            "category_id": 1
+        },
+        {
+            "image_id": 10158,
+            "category_id": 1
+        },
+        {
+            "image_id": 15409,
+            "category_id": 1
+        },
+        {
+            "image_id": 26458,
+            "category_id": 0
+        },
+        {
+            "image_id": 16146,
+            "category_id": 0
+        },
+        {
+            "image_id": 13418,
+            "category_id": 1
+        },
+        {
+            "image_id": 210,
+            "category_id": 1
+        },
+        {
+            "image_id": 13003,
+            "category_id": 1
+        },
+        {
+            "image_id": 29856,
+            "category_id": 0
+        },
+        {
+            "image_id": 32241,
+            "category_id": 1
+        },
+        {
+            "image_id": 23514,
+            "category_id": 0
+        },
+        {
+            "image_id": 3064,
+            "category_id": 1
+        },
+        {
+            "image_id": 19882,
+            "category_id": 0
+        },
+        {
+            "image_id": 14392,
+            "category_id": 0
+        },
+        {
+            "image_id": 12583,
+            "category_id": 0
+        },
+        {
+            "image_id": 5866,
+            "category_id": 1
+        },
+        {
+            "image_id": 12561,
+            "category_id": 0
+        },
+        {
+            "image_id": 37896,
+            "category_id": 1
+        },
+        {
+            "image_id": 34340,
+            "category_id": 0
+        },
+        {
+            "image_id": 7528,
+            "category_id": 0
+        },
+        {
+            "image_id": 18014,
+            "category_id": 1
+        },
+        {
+            "image_id": 6025,
+            "category_id": 0
+        },
+        {
+            "image_id": 34605,
+            "category_id": 0
+        },
+        {
+            "image_id": 25478,
+            "category_id": 0
+        },
+        {
+            "image_id": 37867,
+            "category_id": 1
+        },
+        {
+            "image_id": 1254,
+            "category_id": 0
+        },
+        {
+            "image_id": 18446,
+            "category_id": 0
+        },
+        {
+            "image_id": 15613,
+            "category_id": 0
+        },
+        {
+            "image_id": 7085,
+            "category_id": 1
+        },
+        {
+            "image_id": 11352,
+            "category_id": 1
+        },
+        {
+            "image_id": 13961,
+            "category_id": 0
+        },
+        {
+            "image_id": 5414,
+            "category_id": 1
+        },
+        {
+            "image_id": 39419,
+            "category_id": 1
+        },
+        {
+            "image_id": 8249,
+            "category_id": 0
+        },
+        {
+            "image_id": 28539,
+            "category_id": 0
+        },
+        {
+            "image_id": 9147,
+            "category_id": 1
+        },
+        {
+            "image_id": 2212,
+            "category_id": 1
+        },
+        {
+            "image_id": 11590,
+            "category_id": 0
+        },
+        {
+            "image_id": 35836,
+            "category_id": 1
+        },
+        {
+            "image_id": 19342,
+            "category_id": 1
+        },
+        {
+            "image_id": 33405,
+            "category_id": 1
+        },
+        {
+            "image_id": 39587,
+            "category_id": 1
+        },
+        {
+            "image_id": 36857,
+            "category_id": 0
+        },
+        {
+            "image_id": 27338,
+            "category_id": 1
+        },
+        {
+            "image_id": 32583,
+            "category_id": 1
+        },
+        {
+            "image_id": 33822,
+            "category_id": 1
+        },
+        {
+            "image_id": 26886,
+            "category_id": 1
+        },
+        {
+            "image_id": 5990,
+            "category_id": 1
+        },
+        {
+            "image_id": 19760,
+            "category_id": 0
+        },
+        {
+            "image_id": 28246,
+            "category_id": 1
+        },
+        {
+            "image_id": 17862,
+            "category_id": 0
+        },
+        {
+            "image_id": 27498,
+            "category_id": 1
+        },
+        {
+            "image_id": 29225,
+            "category_id": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "forage_fish"
+        },
+        {
+            "id": 0,
+            "name": "other"
+        }
+    ]
+}
