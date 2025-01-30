@@ -1,0 +1,7 @@
+path: ../datasets/fish
+train: images/train
+val: images/val
+test: 
+
+nc: 74
+names: [ 'Pinnipedia',  'Z. californianus',  'Else/Other',  'Gelatinous Object',  'Hydromedusae',  'P. bachei',  'Ctenophora',  'A. flavidus',  'Cydippida',  'Polyorchis sp.',  'Aequorea sp.',  'Hexagrammidae',  'Actinopterygii',  'Drift Algae',  'M. Cellularia',  'Scyphomedusae',  'Eutonina sp.',  'Sarsia sp.',  'Cnidaria',  'Background',  'A. Labiata',  'Embiotocidae',  'C. aggregata',  'Bolinopsidae',  'C. aggregata (dark morph)',  'R. vacca',  'Fish',  'F. Fish (unk)',  'Sch-Embiotocidae',  'Ex-Embiotocidae',  'E. Lateralis',  'Sch-C.pallasii',  'Ex-C. pallasii',  'Clupeidae',  'Ex-Clupeidae',  'B. Frenatus',  'Ex-C. aggregata',  'Sch-C. aggregata',  'Diving Birds',  'TBD 44',  'Scyphozoa',  'N. breviconis',  'C. pallasii',  'Praya sp.',  'Melicertidae',  'Sebastes Sp.',  'S. flavidus or S. melanops',  'TBD15',  'S. flavidus',  'Banded Rockfish Complex',  'Salmonidae',  'Ex-E. Mordax',  'Sch-E. mordax',  'Ex-R. vacca',  'Sch-R. vacca',  'C. cap. or P. cam.',  'D. opalescens',  'TBD 42',  'P. camtschatica',  'TBD 45',  'Melanitta sp.',  'TBD 43',  'Lobata',  'Ex-A. flavidus',  'Sch-A. flavidus',  'L. pulchra',  'O. tshawytscha or O.kisutch',  'Harbor Seal',  'Beroe sp.',  'O. tshawytscha',  'TBD 46',  'Syngnathidae',  'Caprellidae',  'Melibe sp.']
